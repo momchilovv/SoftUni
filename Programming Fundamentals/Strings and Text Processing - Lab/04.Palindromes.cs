@@ -30,7 +30,7 @@ namespace _04.Palindromes
                 
                 char a = value[min];
                 char b = value[max];
-                if (a != bb)
+                if (a != b)
                     return false;
                 min++;
                 max--;
