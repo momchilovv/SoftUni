@@ -1,3 +1,3 @@
 # SoftUni
-Programming Basics - Homeworks, \n
+Programming Basics - Homeworks, 
 Programming Fundamentals - Homeworks.
