@@ -4,8 +4,8 @@ Programming Basics -> Homeworks,
 
 Programming Fundamentals & Software Technologies -> Homeworks, 
  
-C# Fundamentals -  
-			    C# Advanced,  
-			    C# OOP Basics,   
-			    C# OOP Advanced                                                                                                                           
-			    -> Homeworks and project BashSoft.
+C# Fundamentals: 
+---------------> C# Advanced,  
+---------------> C# OOP Basics,
+---------------> C# OOP Advanced                                                                                                                          
+----------------------------------> Homeworks and project BashSoft.
