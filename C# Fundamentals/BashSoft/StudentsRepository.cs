@@ -1,19 +1,20 @@
 ﻿using System;
 using System.Linq;
 using System.Collections.Generic;
+using System.IO;
 
 public static class StudentsRepository
 {
     public static bool isDataInitialized = false;
     public static Dictionary<string, Dictionary<string, List<int>>> studentsByCourse;
 
-    public static void InitializeData()
+    public static void InitializeData(string fileName)
     {
         if (!isDataInitialized)
         {
             OutputWriter.WriteMessageOnNewLine("Reading data...");
             studentsByCourse = new Dictionary<string, Dictionary<string, List<int>>>();
-            ReadData();
+            ReadData(fileName);
         }
         else
         {
@@ -21,34 +22,21 @@ public static class StudentsRepository
         }
     }
 
-    private static void ReadData()
+    private static void ReadData(string fileName)
     {
-        string input = Console.ReadLine();
-
-        while (input != "end")
+        string path = SessionData.currentPath + "\\" + fileName;
+        if (File.Exists(path))
         {
-            string[] tokens = input.Split(' ');
-            string course = tokens[0];
-            string student = tokens[1];
-            int mark = int.Parse(tokens[2]);
-
-            if (studentsByCourse.ContainsKey(course))
+            string[] inputAllLines = File.ReadAllLines(path);
+            for (int i = 0; i < inputAllLines.Length; i++)
             {
-                if (studentsByCourse[course].ContainsKey(student))
+                if (!string.IsNullOrEmpty(inputAllLines[i]))
                 {
-                    studentsByCourse[course][student].Add(mark);
-                }
-                else
-                {
-                    studentsByCourse[course].Add(student, new List<int> { mark });
+                    string[] data = inputAllLines[i].Split();
                 }
             }
-            else
-            {
-                studentsByCourse.Add(course, new Dictionary<string, List<int>> { { student, new List<int> { mark } } });
-            }
-            input = Console.ReadLine();
         }
+
         isDataInitialized = true;
         OutputWriter.WriteMessageOnNewLine("Data read!");
     }

@@ -6,6 +6,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        IOManager.TraverseDirectory(8);
+        InputReader.StartReadingCommands(); 
     }   
 }

@@ -5,5 +5,11 @@ using System.Text;
 
 public static class SessionData
 {
-    public static string currentPath = Directory.GetCurrentDirectory(); 
+    public static string currentPath = Directory.GetCurrentDirectory();
+
+    public static void CreateDirectoryInCurrentFolder(string name)
+    {
+        string path = Directory.GetCurrentDirectory() + "\\" + name;
+        Directory.CreateDirectory(path);
+    }
 }
