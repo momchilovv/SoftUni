@@ -1,33 +1,29 @@
 ﻿using System;
 using System.Linq;
 
-namespace _01.SumMatrixElements
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        decimal ivanchoCash = decimal.Parse(Console.ReadLine());
+        int numberOfGuests = int.Parse(Console.ReadLine());
+        double priceForBanana = double.Parse(Console.ReadLine());
+        double priceForEgg = double.Parse(Console.ReadLine());
+        double priceForBerries = double.Parse(Console.ReadLine());
+
+        int portions = Math.Ceiling(numberOfGuests / 6.0);
+
+        decimal totalPrice = (portions * priceForBanana * 2) + (portions * priceForEgg * 4) + portions * priceForEgg * 0.2m;
+
+        if (ivanchoCash >= totalPrice)
         {
-            int[] rowAndCol = Console.ReadLine().Split(new string[] { ", " }, StringSplitOptions.None).Select(int.Parse).ToArray();
-            int[,] matrix = new int[rowAndCol[0], rowAndCol[1]];
-            for (int i = 0; i < rowAndCol[0]; i++)
-            {
-                int[] rowValues = Console.ReadLine().Split(new string[] { ", " }, StringSplitOptions.None).Select(int.Parse).ToArray();
-                for (int j = 0; j < rowAndCol[1]; j++)
-                {
-                    matrix[i, j] = rowValues[j];
-                }
-            }
-            int sum = 0;
-            for (int i = 0; i < matrix.GetLength(0); i++)
-            {
-                for (int j = 0; j < matrix.GetLength(1); j++)
-                {
-                    sum += matrix[i, j];
-                }
-            }
-            Console.WriteLine(matrix.GetLength(0));
-            Console.WriteLine(matrix.GetLength(1));
-            Console.WriteLine(sum);
+            totalPrice = ivanchoCash - totalPrice;
+            Console.WriteLine($"Ivancho has enough money - it would cost {totalPrice}lv.”");
+        }
+        else
+        {
+            totalPrice = totalPrice - ivanchoCash;
+            Console.WriteLine($"Ivancho will have to withdraw money - he will need {totalPrice}lv more.”");
         }
     }
 }
