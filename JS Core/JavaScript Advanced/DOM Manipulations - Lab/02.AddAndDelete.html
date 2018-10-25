@@ -1,0 +1,48 @@
+<h1>List of Items</h1>
+<ul id="items">
+    <li>First <a href="#">[Delete]</a></li>
+    <li>Second<a href="#">[Delete]</a></li>
+</ul>
+<input type="text" id="newItemText" />
+<input type="button" value="Add" id='addItem'/>
+<script>
+document.getElementById('addItem').addEventListener('click', addItem);
+
+    function addItem(){
+        let el = document.createElement('li');
+        el.innerHTML = document.getElementById('newItemText').value +
+        '<a href="#"> [Delete]</a>';
+
+        document.getElementById('items').appendChild(el);
+        document.getElementById('newItemText').value = '';
+
+        let ul = el.lastElementChild;
+        ul.addEventListener('click', function(){
+            this.parentNode.parentNode.removeChild(this.parentNode);
+        });
+    }
+
+/*document.getElementById('addItem').addEventListener('click', addItem);
+
+    function addItem() {
+        let inputText = document.getElementById('newItemText').value;
+
+        let el = document.createElement("li");
+        el.appendChild(document.createTextNode(inputText + " "));
+        let span = document.createElement('span');
+
+        span.innerHTML = '<a href="#" onclick="deleteItem(this)">[Delete]</a>';
+        span.firstChild.addEventListener('click', deleteItem);
+        el.appendChild(span);
+
+        document.getElementById('items').appendChild(el);
+        document.getElementById('newItemText').value = '';
+    
+        function deleteItem(){
+            let li = this.parentNode.parentNode.removeChild(parentNode);
+            let ul = li.parentNode;
+            ul.removeChild(li);
+        }
+    
+    }*/
+</script>
