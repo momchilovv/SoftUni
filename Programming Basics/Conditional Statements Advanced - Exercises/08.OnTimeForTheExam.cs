@@ -1,6 +1,5 @@
 ﻿using System;
-//NOTE: This solution gets 93 out of 100 points in judge.softuni.org!
-//I will edit this solution in the future to get 100/100.
+
 class Program
 {
     static void Main(string[] args)
@@ -14,7 +13,7 @@ class Program
         TimeSpan arrivalTime = new TimeSpan(arrivalHour, arrivalMinute, 0);
 
         TimeSpan value = examTime.Subtract(arrivalTime);
-        
+
 
         if (examTime == arrivalTime)
         {
@@ -32,8 +31,16 @@ class Program
             || examTime.Hours == arrivalTime.Hours && value.Minutes > 30 && value.Minutes <= 59 && value.Hours <= 1
             || examTime.Hours != arrivalTime.Hours && value.Minutes > 30 && value.Minutes <= 59 && value.Hours <= 1)
         {
-            Console.WriteLine("Early");
-            Console.WriteLine($"{Math.Abs(value.Minutes)} minutes before the start");
+            if (value.Hours >= 1)
+            {
+                Console.WriteLine("Early");
+                Console.WriteLine($"{Math.Abs(value.Hours)}:{Math.Abs(value.Minutes):00} hours before the start");
+            }
+            else
+            {
+                Console.WriteLine("Early");
+                Console.WriteLine($"{Math.Abs(value.Minutes)} minutes before the start");
+            }
         }
         else if (examTime.Hours != arrivalTime.Hours && value.Hours >= 1)
         {
@@ -51,7 +58,7 @@ class Program
         {
             Console.WriteLine("Late");
             if (value.Hours >= 1)
-            { 
+            {
                 Console.WriteLine($"{Math.Abs(value.Minutes):00} minutes after the start");
             }
             else
