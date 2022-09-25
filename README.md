@@ -3,8 +3,8 @@ My solutions for SoftUni Homeworks and Projects.
 <details><summary><h3>Programming Basics</h3></summary>
 
 
-First Steps In Coding
-----
+  <details><summary><h4>First Steps In Coding</h4></summary>
+
 | № | Lab | № | Exercises |                       
 | ---: | :--- | ---: | :---|                       
 | `01` | [Hello SoftUni](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/First%20Steps%20In%20Coding%20-%20Lab/01.HelloSoftUni.cs) | `01` | [USD to BGN](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/First%20Steps%20In%20Coding%20-%20Exercises/01.USDtoBGN.cs) |       
@@ -17,10 +17,10 @@ First Steps In Coding
 | `08` | [Pet Shop](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/First%20Steps%20In%20Coding%20-%20Lab/08.PetShop.cs) | `08`| [Basketball Equipment](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/First%20Steps%20In%20Coding%20-%20Exercises/08.BasketballEquipment.cs) |
 | `09` | [Yard Greening](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/First%20Steps%20In%20Coding%20-%20Lab/09.YardGreening.cs) | `09` | [Fish Tank](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/First%20Steps%20In%20Coding%20-%20Exercises/09.FishTank.cs) |
 
-----
+  </details>
 
-Conditional Statements
-----
+  <details><summary><h4>Conditional Statements</h4></summary>
+
 | № | Lab | № | Exercises |                       
 | ---: | :--- | ---: | :---|                       
 | `01` | [Exellent Result](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20-%20Lab/01.ExcellentResult.cs) | `01`| [Sum Seconds](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20-%20Exercises/01.SumSeconds.cs) |       
@@ -31,10 +31,10 @@ Conditional Statements
 | `06` | [Speed Info](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20-%20Lab/06.SpeedInfo.cs) | `06`| [World Swimming Record](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20-%20Exercises/06.WorldSwimmingRecord.cs) |
 | `07` | [Area of Figures](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20-%20Lab/07.AreaOfFigures.cs) | `07`| [Shopping](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20-%20Exercises/07.Shopping.cs) |
 | | | `08`| [Lunch Break](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20-%20Exercises/08.LunchBreak.cs) |
-----
 
-Conditional Statements Advanced
-----
+  </details>
+  <details><summary><h4>Conditional Statements Advanced</h4></summary>
+
 | № | Lab | № | Exercises |                       
 | ---: | :--- | ---: | :---|                       
 | `01` | [Day Of Week](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/01.DayOfWeek.cs) | `01`| [Cinema](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Exercises/01.Cinema.cs) |       
@@ -49,10 +49,10 @@ Conditional Statements Advanced
 | `10` | [Invalid Number](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/10.InvalidNumber.cs) | | |
 | `11` | [Fruit Shop](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/11.FruitShop.cs) | |  |
 | `12` | [Trade Commission](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/12.TradeCommission.cs) |  |  |
-----
+  </details>
 
-For Loop
-----
+  <details><summary><h4>For Loops</h4></summary>
+
 | № | Lab | № | Exercises |                       
 | ---: | :--- | ---: | :---|                       
 | `01` | [Numbers From 1 to 100](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Lab/01.NumbersFrom1To100.cs) | `01`| [Numbers Ending With 7](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Exercises/01.NumbersEndingWith7.cs) |       
@@ -65,10 +65,10 @@ For Loop
 | `08` | [Number Sequence](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Lab/08.NumberSequence.cs) | `08` | [Tennis Ranklist](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Exercises/08.TennisRanklist.cs) |
 | `09` | [Left And Right Sum](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Lab/09.LeftAndRightSum.cs) |  |  |
 | `10` | [Odd Even Sum](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Lab/10.OddEvenSum.cs) | | |
-----
 
-While Loop
-----
+  </details>
+  <details><summary><h4>While Loops</h4></summary>
+
 | № | Lab | № | Exercises |                       
 | ---: | :--- | ---: | :---|                       
 | `01` | [Read Text](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Lab/01.ReadText.cs) | `01`| [Old Books](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Exercises/01.OldBooks.cs) |       
@@ -79,11 +79,11 @@ While Loop
 | `06` | [Max Number](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Lab/06.MaxNumber.cs) | `06`| [Cake](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Exercises/06.Cake.cs) |
 | `07` | [Min Number](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Lab/07.MinNumber.cs) | `07`| [Moving](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Exercises/07.Moving.cs) |
 | `08` | [Graduation](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Lab/08.Graduation.cs) |  |  |
+  </details>
 
-----
+
+  <details><summary><h4>Nested Loops</h4></summary>
   
-Nested Loops
-----
 | № | Lab | № | Exercises |                       
 | ---: | :--- | ---: | :---|                       
 | `01` | [Clocks](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Lab/01.Clock.cs) | `01`| [Number Pyramid](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Exercises/01.NumberPyramid.cs) |       
@@ -92,8 +92,7 @@ Nested Loops
 | `04` | [Sum Of Two Numbers](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Lab/04.SumOfTwoNumbers.cs) | `04` | [Train The Trainers](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Exercises/04.TrainTheTrainers.cs) |
 | `05` | [Travelling](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Lab/05.Travelling.cs) | `05`| [Special Numbers](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Exercises/05.SpecialNumbers.cs) |
 | `06` | [Building](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Lab/06.Building.cs) | `06`| [Cinema Tickets](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Exercises/06.CinemaTickets.cs) |
-  
-----
+  </details>
 </details>
 
 <details><summary><h3>Programming Fundamentals</h3></summary>
