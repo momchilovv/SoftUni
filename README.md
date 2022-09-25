@@ -3,7 +3,7 @@ My solutions for SoftUni Homeworks and Projects.
 <details><summary><h3>Programming Basics</h3></summary>
 
 
-  <details><summary><h4>First Steps In Coding</h4></summary>
+ <details><summary><h4>First Steps In Coding</h4></summary>
 
 | № | Lab | № | Exercises |                       
 | ---: | :--- | ---: | :---|                       
