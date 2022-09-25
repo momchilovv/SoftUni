@@ -82,6 +82,18 @@ While Loop
 
 ----
   
+Nested Loops
+----
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Clocks](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Lab/01.Clock.cs) | `01`| [Number Pyramid](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Exercises/01.NumberPyramid.cs) |       
+| `02` | [Multiplication Table](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Lab/02.MultiplicationTable.cs) | `02` | [Equal Sums Even Odd Position](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Exercises/02.EqualSumsEvenOddPosition.cs) |
+| `03` | [Combinations](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Lab/03.Combinations.cs) | `03`| [Sum Prime Non Prime](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Exercises/03.SumPrimeNonPrime.cs) |
+| `04` | [Sum Of Two Numbers](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Lab/04.SumOfTwoNumbers.cs) | `04` | [Train The Trainers](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Exercises/04.TrainTheTrainers.cs) |
+| `05` | [Travelling](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Lab/05.Travelling.cs) | `05`| [Special Numbers](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Exercises/05.SpecialNumbers.cs) |
+| `06` | [Building](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Lab/06.Building.cs) | `06`| [Cinema Tickets](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Exercises/06.CinemaTickets.cs) |
+  
+----
 </details>
 
 <details><summary><h3>Programming Fundamentals</h3></summary>
