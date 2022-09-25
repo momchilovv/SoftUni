@@ -32,6 +32,24 @@ Conditional Statements
 | | | `08`| [Lunch Break](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20-%20Exercises/08.LunchBreak.cs) |
 ----
 
+Conditional Statements Advanced
+----
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Day Of Week](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/01.DayOfWeek.cs) | `01`| [Cinema](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Exercises/01.Cinema.cs) |       
+| `02` | [Weekend Or Working Day](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/02.WeekendOrWorkingDay.cs) | `02` | [Summer Outfit](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Exercises/02.SummerOutfit.cs) |
+| `03` | [Animal Type](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/03.AnimalType.cs) | `03`| [New Home](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Exercises/03.NewHome.cs) |
+| `04` | [Personal Title](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/04.PersonalTitle.cs) | `04` | [Fishing Boat](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Exercises/04.FishingBoat.cs) |
+| `05` | [Small Shop](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/05.SmallShop.cs) | `05`| [Journey](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Exercises/05.Journey.cs) |
+| `06` | [Number In Range](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/06.NumberInRange.cs) | `06`| [Operations Between Numbers](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Exercises/06.OperationsBetweenNumbers.cs) |
+| `07` | [Working Hours](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/07.WorkingHours.cs) | `07`| [Hotel Room](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Exercises/07.HotelRoom.cs) |
+| `08` | [Cinema Ticket](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/08.CinemaTicket.cs) | `08` | [On Time For The Exam](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Exercises/08.OnTimeForTheExam.cs) |
+| `09` | [Fruit Or Vegetable](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/09.FruitOrVegetable.cs) | `09` | [Ski Trip](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Exercises/09.SkiTrip.cs) |
+| `10` | [Invalid Number](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/10.InvalidNumber.cs) | | |
+| `11` | [Fruit Shop](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/11.FruitShop.cs) | |  |
+| `12` | [Trade Commission](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/12.TradeCommission.cs) |  |  |
+----
+
 </details>
 
 <details><summary><h3>Programming Fundamentals</h3></summary>
