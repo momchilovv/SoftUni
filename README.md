@@ -67,6 +67,21 @@ For Loop
 | `10` | [Odd Even Sum](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Lab/10.OddEvenSum.cs) | | |
 ----
 
+While Loop
+----
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Read Text](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Lab/01.ReadText.cs) | `01`| [Old Books](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Exercises/01.OldBooks.cs) |       
+| `02` | [Password](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Lab/02.Password.cs) | `02` | [Exam Preparation](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Exercises/02.ExamPreparation.cs) |
+| `03` | [Sum Numbers](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Lab/03.SumNumbers.cs) | `03`| [Vacation](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Exercises/03.Vacation.cs) |
+| `04` | [Sequence 2k Plus 1](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Lab/04.Sequence2kPlus1.cs) | `04` | [Walking](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Exercises/04.Walking.cs) |
+| `05` | [Account Balance](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Lab/05.AccountBalance.cs) | `05`| [Coins](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Exercises/05.Coins.cs) |
+| `06` | [Max Number](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Lab/06.MaxNumber.cs) | `06`| [Cake](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Exercises/06.Cake.cs) |
+| `07` | [Min Number](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Lab/07.MinNumber.cs) | `07`| [Moving](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Exercises/07.Moving.cs) |
+| `08` | [Graduation](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Lab/08.Graduation.cs) |  |  |
+
+----
+  
 </details>
 
 <details><summary><h3>Programming Fundamentals</h3></summary>
