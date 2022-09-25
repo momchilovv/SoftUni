@@ -2,6 +2,7 @@
 My solutions for SoftUni Homeworks and Projects.
 <details><summary><h3>Programming Basics</h3></summary>
 
+
 First Steps In Coding
 ----
 | № | Lab | № | Exercises |                       
@@ -48,6 +49,22 @@ Conditional Statements Advanced
 | `10` | [Invalid Number](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/10.InvalidNumber.cs) | | |
 | `11` | [Fruit Shop](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/11.FruitShop.cs) | |  |
 | `12` | [Trade Commission](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/12.TradeCommission.cs) |  |  |
+----
+
+For Loop
+----
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Numbers From 1 to 100](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Lab/01.NumbersFrom1To100.cs) | `01`| [Numbers Ending With 7](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Exercises/01.NumbersEndingWith7.cs) |       
+| `02` | [Numbers From N to 1](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Lab/02.NumbersFromNTo1.cs) | `02` | [Half Sum Element](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Exercises/02.HalfSumElement.cs) |
+| `03` | [Numbers From 1 to N Through 3](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Lab/03.NumbersFrom1ToNThrough3.cs) | `03`| [Histogram](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Exercises/03.Histogram.cs) |
+| `04` | [Even Power Of 2](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Lab/04.EvenPowerOf2.cs) | `04` | [Clever Lily](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Exercises/04.CleverLily.cs) |
+| `05` | [Character Sequence](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Lab/05.CharacterSequence.cs) | `05`| [Salary](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Exercises/05.Salary.cs) |
+| `06` | [Vowels Sum](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Lab/06.VowelsSum.cs) | `06`| [Oscars](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Exercises/06.Oscars.cs) |
+| `07` | [Sum Numbers](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Lab/07.SumNumbers.cs) | `07`| [Trekking Mania](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Exercises/07.TrekkingMania.cs) |
+| `08` | [Number Sequence](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Lab/08.NumberSequence.cs) | `08` | [Tennis Ranklist](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Exercises/08.TennisRanklist.cs) |
+| `09` | [Left And Right Sum](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Lab/09.LeftAndRightSum.cs) |  |  |
+| `10` | [Odd Even Sum](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Lab/10.OddEvenSum.cs) | | |
 ----
 
 </details>
