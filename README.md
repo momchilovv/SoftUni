@@ -103,7 +103,7 @@ My solutions for SoftUni Homeworks and Projects.
   </ul>
 </details>
 
-<details><summary><h3>Programming Fundamentals</h3></summary>
+<details><summary><h3>C# Fundamentals</h3></summary>
 </details>
 
 <details><summary><h3>C# Advanced</h3></summary>
