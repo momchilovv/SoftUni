@@ -2,7 +2,7 @@
 My solutions for SoftUni Homeworks and Projects.
 <details><summary><h3>Programming Basics</h3></summary>
 
-
+<ul><li>
  <details><summary><h4>First Steps In Coding</h4></summary>
 
 | № | Lab | № | Exercises |                       
@@ -18,7 +18,8 @@ My solutions for SoftUni Homeworks and Projects.
 | `09` | [Yard Greening](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/First%20Steps%20In%20Coding%20-%20Lab/09.YardGreening.cs) | `09` | [Fish Tank](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/First%20Steps%20In%20Coding%20-%20Exercises/09.FishTank.cs) |
 
   </details>
-
+</li>
+<li>
   <details><summary><h4>Conditional Statements</h4></summary>
 
 | № | Lab | № | Exercises |                       
@@ -33,6 +34,8 @@ My solutions for SoftUni Homeworks and Projects.
 | | | `08`| [Lunch Break](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20-%20Exercises/08.LunchBreak.cs) |
 
   </details>
+  </li>
+  <li>
   <details><summary><h4>Conditional Statements Advanced</h4></summary>
 
 | № | Lab | № | Exercises |                       
@@ -50,7 +53,8 @@ My solutions for SoftUni Homeworks and Projects.
 | `11` | [Fruit Shop](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/11.FruitShop.cs) | |  |
 | `12` | [Trade Commission](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/12.TradeCommission.cs) |  |  |
   </details>
-
+ </li>
+ <li>
   <details><summary><h4>For Loops</h4></summary>
 
 | № | Lab | № | Exercises |                       
@@ -67,6 +71,8 @@ My solutions for SoftUni Homeworks and Projects.
 | `10` | [Odd Even Sum](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Lab/10.OddEvenSum.cs) | | |
 
   </details>
+  </li>
+  <li>
   <details><summary><h4>While Loops</h4></summary>
 
 | № | Lab | № | Exercises |                       
@@ -80,8 +86,8 @@ My solutions for SoftUni Homeworks and Projects.
 | `07` | [Min Number](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Lab/07.MinNumber.cs) | `07`| [Moving](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Exercises/07.Moving.cs) |
 | `08` | [Graduation](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Lab/08.Graduation.cs) |  |  |
   </details>
-
-
+</li>
+<li>
   <details><summary><h4>Nested Loops</h4></summary>
   
 | № | Lab | № | Exercises |                       
@@ -93,6 +99,8 @@ My solutions for SoftUni Homeworks and Projects.
 | `05` | [Travelling](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Lab/05.Travelling.cs) | `05`| [Special Numbers](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Exercises/05.SpecialNumbers.cs) |
 | `06` | [Building](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Lab/06.Building.cs) | `06`| [Cinema Tickets](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Exercises/06.CinemaTickets.cs) |
   </details>
+  </li>
+  </ul>
 </details>
 
 <details><summary><h3>Programming Fundamentals</h3></summary>
