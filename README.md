@@ -133,19 +133,19 @@ My solutions for SoftUni Homeworks and Projects.
 
 | № | Lab | № | Exercises | № | More Exercises |                     
 | ---: | :--- | ---: | :---| ---:| :---|                      
-| `01` | []() | `01`| []() |  `01` | []() |    
-| `02` | []() | `02` | []() |  `02` | []() |
-| `03` | []() | `03`| []() |   `03` | []() |
-| `04` | []() | `04` | []() |  `04` | []() |
-| `05` | []() | `05`| []() |  `05` | []() |
-| `06` | []() | `06`| []() |   |  |
-| `07` | []() | `07`| []() |    |  |
-| `08` | []() | `08` | []() |  |  |
-| `09` | []() | `09` | []()  |  | |
-| `10` | []() | `10` | []() | |  |
-| `11` | []() | `11` | []() |   |  |
-| `12` | []() |  |  |         |  |  |
-| `13` | []() |  |  |         |  |  |
+| `01` | [Convert Meters to Kilometers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/01.ConvertMetersToKilometers.cs) | `01`| [Integer Operations](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/01.IntegerOperations.cs) |  `01` | [Data Type Finder](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20More%20Exercises/01.DataTypeFinder.cs) |    
+| `02` | [Pounds to Dollars](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/02.PoundsToDollars.cs) | `02` | [Sum Digits](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/02.SumDigits.cs) |  `02` | [From Left to The Right](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20More%20Exercises/02.FromLeftToTheRight.cs) |
+| `03` | [Exact Sum of Real Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/03.ExactSumOfRealNumber.cs) | `03`| [Elevator](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/03.Elevator.cs) |   `03` | [Floating Equality](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20More%20Exercises/03.FloatingEquality.cs) |
+| `04` | [Centuries to Minutes](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/04.CenturiesToMinutes.cs) | `04` | [Sum of Chars](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/04.SumOfChars.cs) |  `04` | [Refactoring: Prime Checker](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20More%20Exercises/04.RefactorPrimeChecker.cs) |
+| `05` | [Special Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/05.SpecialNumbers.cs) | `05`| [Print Parf of ASCII Table](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/05.PrintPartOfASCIITable.cs) |  `05` | [Decrypting Message](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20More%20Exercises/05.DecryptingMessages.cs) |
+| `06` | [Reversed Chars](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/06.ReversedChars.cs) | `06`| [Triples of Latin Letters](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/06.TriplesOfLatinLetters.cs) | `06`  | [Balanced Brackets](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20More%20Exercises/06.BalancedBrackets.cs)  |
+| `07` | [Concat Names](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/07.ConcatNames.cs) | `07`| [Water Overflow](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/07.WaterOverflow.cs) |    |  |
+| `08` | [Town Info](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/08.TownInfo.cs) | `08` | [Beer Kegs](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/08.BeerKegs.cs) |  |  |
+| `09` | [Chars to String](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/09.CharsToString.cs) | `09` | [Spice Must Flow](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/09.SpiceMustFlow.cs)  |  | |
+| `10` | [Lower or Upper](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/10.LowerOrUpper.cs) | `10` | [Poke Mon](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/10.Pokemon.cs) | |  |
+| `11` | [Refactor Volume of Pyramid](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/11.RefactorVolumeOfPyramid.cs) | `11` | [Snowballs](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/11.Snowballs.cs) |   |  |
+| `12` | [Refactor Special Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/12.RefactorSpecialNumbers.cs) |  |  |         |  |  |
+
 
 
 </details>
