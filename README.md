@@ -2,7 +2,7 @@
 My solutions for SoftUni Homeworks and Projects.
 <details><summary><h3>Programming Basics</h3></summary>
 
-
+<ul><li>
  <details><summary><h4>First Steps In Coding</h4></summary>
 
 | № | Lab | № | Exercises |                       
@@ -18,7 +18,8 @@ My solutions for SoftUni Homeworks and Projects.
 | `09` | [Yard Greening](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/First%20Steps%20In%20Coding%20-%20Lab/09.YardGreening.cs) | `09` | [Fish Tank](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/First%20Steps%20In%20Coding%20-%20Exercises/09.FishTank.cs) |
 
   </details>
-
+</li>
+<li>
   <details><summary><h4>Conditional Statements</h4></summary>
 
 | № | Lab | № | Exercises |                       
@@ -33,6 +34,8 @@ My solutions for SoftUni Homeworks and Projects.
 | | | `08`| [Lunch Break](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20-%20Exercises/08.LunchBreak.cs) |
 
   </details>
+  </li>
+  <li>
   <details><summary><h4>Conditional Statements Advanced</h4></summary>
 
 | № | Lab | № | Exercises |                       
@@ -50,7 +53,8 @@ My solutions for SoftUni Homeworks and Projects.
 | `11` | [Fruit Shop](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/11.FruitShop.cs) | |  |
 | `12` | [Trade Commission](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Conditional%20Statements%20Advanced%20-%20Lab/12.TradeCommission.cs) |  |  |
   </details>
-
+ </li>
+ <li>
   <details><summary><h4>For Loops</h4></summary>
 
 | № | Lab | № | Exercises |                       
@@ -67,6 +71,8 @@ My solutions for SoftUni Homeworks and Projects.
 | `10` | [Odd Even Sum](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/For%20Loop%20-%20Lab/10.OddEvenSum.cs) | | |
 
   </details>
+  </li>
+  <li>
   <details><summary><h4>While Loops</h4></summary>
 
 | № | Lab | № | Exercises |                       
@@ -80,8 +86,8 @@ My solutions for SoftUni Homeworks and Projects.
 | `07` | [Min Number](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Lab/07.MinNumber.cs) | `07`| [Moving](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Exercises/07.Moving.cs) |
 | `08` | [Graduation](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/While%20Loop%20-%20Lab/08.Graduation.cs) |  |  |
   </details>
-
-
+</li>
+<li>
   <details><summary><h4>Nested Loops</h4></summary>
   
 | № | Lab | № | Exercises |                       
@@ -93,9 +99,59 @@ My solutions for SoftUni Homeworks and Projects.
 | `05` | [Travelling](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Lab/05.Travelling.cs) | `05`| [Special Numbers](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Exercises/05.SpecialNumbers.cs) |
 | `06` | [Building](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Lab/06.Building.cs) | `06`| [Cinema Tickets](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Exercises/06.CinemaTickets.cs) |
   </details>
+  </li>
+  </ul>
 </details>
 
-<details><summary><h3>Programming Fundamentals</h3></summary>
+<details><summary><h3>C# Fundamentals</h3></summary>
+<ul><li>
+<details><summary><h4>Basic Syntax, Conditional Statements and Loops</h4></summary>
+
+| № | Lab | № | Exercises | № | More Exercises |                     
+| ---: | :--- | ---: | :---| ---:| :---|                      
+| `01` | [Student Information](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Lab/01.StudentInformation.cs) | `01`| [Ages](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Exercises/01.Ages.cs) |  `01` | [Sort Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20More%20Exercises/01.SortNumbers.cs) |    
+| `02` | [Passed](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Lab/02.Passed.cs) | `02` | [Division](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Exercises/02.Division.cs) |  `02` | [English Name Of The Last Digit](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20More%20Exercises/02.EnglishNameOfTheLastDigit.cs) |
+| `03` | [Passed Or Failed](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Lab/03.PassedOrFailed.cs) | `03`| [Vacation](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Exercises/03.Vacation.cs) |   `03` | [Gaming Store](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20More%20Exercises/03.GamingStore.cs) |
+| `04` | [Back In 30 Minutes](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Lab/04.BackIn30Minutes.cs) | `04` | [Print And Sum](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Exercises/04.PrintAndSum.cs) |  `04` | [Reverse String](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20More%20Exercises/04.ReverseString.cs) |
+| `05` | [Month Printer](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Lab/05.MonthPrinter.cs) | `05`| [Login](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Exercises/05.Login.cs) |  `05` | [Messages](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20More%20Exercises/05.Messages.cs) |
+| `06` | [Foreign Language](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Lab/06.ForeignLanguages.cs) | `06`| [Strong Number](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Exercises/06.StrongNumber.cs) |   |  |
+| `07` | [Theatre Promotions](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Lab/07.TheatrePromotions.cs) | `07`| [Vending Machine](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Exercises/07.VendingMachine.cs) |    |  |
+| `08` | [Divisible By 3](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Lab/08.DivisibleBy3.cs) | `08` | [Triangle Of Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Exercises/08.TriangleOfNumbers.cs) |  |  |
+| `09` | [Sum Of Odd Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Lab/09.SumOfOddNumbers.cs) | `09` | [Padawan Equipment](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Exercises/09.PadawanEquipment.cs)  |  | |
+| `10` | [Multiplication Table](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Lab/10.MultiplicationTable.cs) | `10` | [Rage Expenses](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Exercises/10.RageExpenses.cs) | |  |
+| `11` | [Multiplication Table 2.0](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Lab/11.MultiplicationTable2.0.cs) | `11` | [Orders](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Exercises/11.Orders.cs) |   |  |
+| `12` | [Even Number](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Lab/12.EvenNumber.cs) |  |  |         |  |  |
+| `13` | [Holiday Between Two Dates](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Lab/13.HolidayBetweenTwoDates.cs) |  |  |         |  |  |
+
+</details>
+</li>
+
+</ul>
+
+<ul><li>
+<details><summary><h4>Data Types and Variables</h4></summary>
+
+| № | Lab | № | Exercises | № | More Exercises |                     
+| ---: | :--- | ---: | :---| ---:| :---|                      
+| `01` | [Convert Meters to Kilometers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/01.ConvertMetersToKilometers.cs) | `01`| [Integer Operations](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/01.IntegerOperations.cs) |  `01` | [Data Type Finder](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20More%20Exercises/01.DataTypeFinder.cs) |    
+| `02` | [Pounds to Dollars](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/02.PoundsToDollars.cs) | `02` | [Sum Digits](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/02.SumDigits.cs) |  `02` | [From Left to The Right](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20More%20Exercises/02.FromLeftToTheRight.cs) |
+| `03` | [Exact Sum of Real Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/03.ExactSumOfRealNumber.cs) | `03`| [Elevator](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/03.Elevator.cs) |   `03` | [Floating Equality](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20More%20Exercises/03.FloatingEquality.cs) |
+| `04` | [Centuries to Minutes](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/04.CenturiesToMinutes.cs) | `04` | [Sum of Chars](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/04.SumOfChars.cs) |  `04` | [Refactoring: Prime Checker](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20More%20Exercises/04.RefactorPrimeChecker.cs) |
+| `05` | [Special Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/05.SpecialNumbers.cs) | `05`| [Print Parf of ASCII Table](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/05.PrintPartOfASCIITable.cs) |  `05` | [Decrypting Message](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20More%20Exercises/05.DecryptingMessages.cs) |
+| `06` | [Reversed Chars](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/06.ReversedChars.cs) | `06`| [Triples of Latin Letters](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/06.TriplesOfLatinLetters.cs) | `06`  | [Balanced Brackets](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20More%20Exercises/06.BalancedBrackets.cs)  |
+| `07` | [Concat Names](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/07.ConcatNames.cs) | `07`| [Water Overflow](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/07.WaterOverflow.cs) |    |  |
+| `08` | [Town Info](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/08.TownInfo.cs) | `08` | [Beer Kegs](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/08.BeerKegs.cs) |  |  |
+| `09` | [Chars to String](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/09.CharsToString.cs) | `09` | [Spice Must Flow](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/09.SpiceMustFlow.cs)  |  | |
+| `10` | [Lower or Upper](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/10.LowerOrUpper.cs) | `10` | [Poke Mon](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/10.Pokemon.cs) | |  |
+| `11` | [Refactor Volume of Pyramid](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/11.RefactorVolumeOfPyramid.cs) | `11` | [Snowballs](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises/11.Snowballs.cs) |   |  |
+| `12` | [Refactor Special Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab/12.RefactorSpecialNumbers.cs) |  |  |         |  |  |
+
+
+
+</details>
+</li>
+</ul>
+
 </details>
 
 <details><summary><h3>C# Advanced</h3></summary>
