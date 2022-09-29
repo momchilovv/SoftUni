@@ -100,6 +100,16 @@ My solutions for SoftUni Homeworks and Projects.
 | `06` | [Building](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Lab/06.Building.cs) | `06`| [Cinema Tickets](https://github.com/momchilovv/SoftUni/blob/main/Programming%20Basics/Nested%20Loops%20-%20Exercises/06.CinemaTickets.cs) |
   </details>
   </li>
+  
+  <li>
+  <details><summary><h4>Certificate</h4></summary>
+ 
+ <p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/26198872/193081729-0878960b-03f1-480e-940f-ef278b989abb.jpeg"><img src="https://user-images.githubusercontent.com/26198872/193081729-0878960b-03f1-480e-940f-ef278b989abb.jpeg" style="max-width: 50%;"></a>
+
+ </p>
+  </details>
+  </li>
   </ul>
 </details>
 
