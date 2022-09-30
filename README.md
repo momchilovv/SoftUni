@@ -162,6 +162,26 @@ My solutions for SoftUni Homeworks and Projects.
 </li>
 </ul>
 
+<ul><li>
+<details><summary><h4>Arrays</h4></summary>
+
+| № | Lab | № | Exercises | № | More Exercises |                     
+| ---: | :--- | ---: | :---| ---:| :---|                      
+| `01` | [Day of Week](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20Lab/01.DaysOfWeek.cs) | `01`| [Train](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20Exercises/01.Train.cs) |  `01` | [Encrypt, Sort and Print Array](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20More%20Exercises/01.EncryptSortAndPrintArray.cs) |    
+| `02` | [Print Numbers in Reverse Order](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20Lab/02.PrintNumbersInReverseOrder.cs) | `02` | [Common Elements](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20Exercises/02.CommonElements.cs) |  `02` | [Pascal Triangle](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20More%20Exercises/02.PascalTriangle.cs) |
+| `03` | [Rounding Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20Lab/03.RoundingNumbers.cs) | `03`| [Zig-Zag Arrays](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20Exercises/03.Zig-ZagArrays.cs) |   `03` | [Recursive Fibonacci](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20More%20Exercises/03.RecursiveFibonacci.cs) |
+| `04` | [Reverse Array of String](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20Lab/04.ReverseArrayOfStrings.cs) | `04` | [Array Rotation](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20Exercises/04.ArrayRotation.cs) |  `04` | [Fold and Sum](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20More%20Exercises/04.FoldAndSum.cs) |
+| `05` | [Sum Even Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20Lab/05.SumEvenNumbers.cs) | `05`| [Top Integers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20Exercises/05.TopIntegers.cs) |  `05` | [Longest Increasing Subsequence](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20More%20Exercises/05.LongestIncreasingSubsequence.cs) |
+| `06` | [Even and Odd Subtraction](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20Lab/06.EvenAndOddSubtraction.cs) | `06`| [Equal Sum](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20Exercises/06.EqualSums.cs) |   |  |
+| `07` | [Equal Arrays](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20Lab/07.EqualArrays.cs) | `07`| [Max Sequence of Equal Elements](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20Exercises/07.MaxSequenceOfEqualElements.cs) |    |  |
+| `08` | [Condense Array to Number](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20Lab/08.CondenseArrayToNumber.cs) | `08` | [Magic Sum](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20Exercises/08.MagicSum.cs) |  |  |
+|  |  | `09` | [Kamino Factory](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20Exercises/09.KaminoFactory.cs)  |  | |
+|  |  | `10` | [Lady Bugs](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Arrays%20-%20Exercises/10.LadyBugs.cs) | |  |
+
+</details>
+</li>
+</ul>
+
 </details>
 
 <details><summary><h3>C# Advanced</h3></summary>
