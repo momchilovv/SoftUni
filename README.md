@@ -224,7 +224,7 @@ My solutions for SoftUni Homeworks and Projects.
 </ul>
 
  <ul><li>
-<details><summary><h4>Lists</h4></summary>
+<details><summary><h4>Objects and Classes</h4></summary>
 
 | № | Lab | № | Exercises | № | More Exercises |                     
 | ---: | :--- | ---: | :---| ---:| :---|                      
