@@ -181,7 +181,27 @@ My solutions for SoftUni Homeworks and Projects.
 </details>
 </li>
 </ul>
+<ul><li>
+<details><summary><h4>Methods</h4></summary>
 
+| № | Lab | № | Exercises | № | More Exercises |                     
+| ---: | :--- | ---: | :---| ---:| :---|                      
+| `01` | [Sign of Integer Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Lab/01.SignOfIntegerNumbers.cs) | `01`| [Smallest of Three Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Exercises/01.SmallestOfThreeNumbers.cs) |  `01` | [Data Types](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20More%20Exercises/01.DataTypes.cs) |    
+| `02` | [Grades](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Lab/02.Grades.cs) | `02` | [Vowels Count](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Exercises/02.VowelsCount.cs) |  `02` | [Center Point](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20More%20Exercises/02.CenterPoint.cs) |
+| `03` | [Calculations](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Lab/03.Calculations.cs) | `03`| [Characters in Range](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Exercises/03.CharactersInRange.cs) |   `03` | [Longer Line](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20More%20Exercises/03.LongerLine.cs) |
+| `04` | [Printing Triangle](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Lab/04.PrintTriangle.cs) | `04` | [Password Validator](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Exercises/04.PasswordValidator.cs) |  `04` | [Tribonacci Sequence](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20More%20Exercises/04.TribonacciSequence.cs) |
+| `05` | [Orders](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Lab/05.Orders.cs) | `05`| [Add and Subtract](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Exercises/05.AddAndSubtract.cs) |  `05` | [Multiplication Sign](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20More%20Exercises/05.MultiplicationSign.cs) |
+| `06` | [Calculate Rectangle Area](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Lab/06.CalculateRectangleArea.cs) | `06`| [Middle Characters](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Exercises/06.MiddleCharacters.cs) |   |  |
+| `07` | [Repeat String](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Lab/07.RepeatString.cs) | `07`| [NxN Matrix](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Exercises/07.NxNMatrix.cs) |    |  |
+| `08` | [Math Power](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Lab/08.MathPower.cs) | `08` | [Factorial Division](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Exercises/08.FactorialDivision.cs) |  |  |
+| `09` | [Greater of Two Values](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Lab/09.GreaterOfTwoValues.cs) | `09` | [Palindrome Integers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Exercises/09.PalindromeIntegers.cs)  |  | |
+| `10` | [Multiply Evens by Odds](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Lab/10.MultiplyEvensByOdds.cs) | `10` | [Top Number](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Exercises/10.TopNumber.cs) | |  |
+| `11` | [Math operations](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Lab/11.MathOperations.cs) | `11` | [Array Manipulator](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Methods%20-%20Exercises/11.ArrayManipulator.cs) |   |  |
+
+
+</details>
+</li>
+</ul>
 </details>
 
 <details><summary><h3>C# Advanced</h3></summary>
