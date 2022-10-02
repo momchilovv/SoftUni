@@ -219,12 +219,27 @@ My solutions for SoftUni Homeworks and Projects.
 |  |  | `09` | [Pokemon Don't Go](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Exercises/09.PokemonDon'tGo.cs)  |  | |
 |  |  | `10` | [SoftUni Course Planning](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Exercises/10.SoftUniCoursePlanning.cs) | |  |
 
-
-
 </details>
 </li>
 </ul>
 
+ <ul><li>
+<details><summary><h4>Lists</h4></summary>
+
+| № | Lab | № | Exercises | № | More Exercises |                     
+| ---: | :--- | ---: | :---| ---:| :---|                      
+| `01` | [Randomize Words](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20Lab/01.RandomizeWords.cs) | `01`| [Advertisement Message](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20Exercises/01.AdvertisementMessage.cs) |  `01` | [Company Roster](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20More%20Exercises/01.CompanyRoster.cs) |    
+| `02` | [Big Factorial](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20Lab/02.BigFactorial.cs) | `02` | [Articles](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20Exercises/02.Articles.cs) |  `02` | [Oldest Family Member](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20More%20Exercises/02.OldestFamilyMember.cs) |
+| `03` | [Songs](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20Lab/03.Songs.cs) | `03`| [Articles 2.0](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20Exercises/03.Articles2.0.cs) |   `03` | [Speed Racing](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20More%20Exercises/03.SpeedRacing.cs) |
+| `04` | [Students](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20Lab/04.Students.cs) | `04` | [Students](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20Exercises/04.Students.cs) |  `04` | [Raw Data](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20More%20Exercises/04.RawData.cs) |
+| `05` | [Students 2.0](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20Lab/05.Students2.0.cs) | `05`| [Teamwork Projects](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20Exercises/05.TeamworkProjects.cs) |  `05` | [Shopping Spree](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20More%20Exercises/05.ShoppingSpree.cs) |
+| `06` | [Store Boxes](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20Lab/06.StoreBoxes.cs) | `06`| [Vehicle Catalogue](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20Exercises/06.VehicleCatalog.cs) |   |  |
+| `07` | [Vehicle Catalogue](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20Lab/07.VehicleCatalog.cs) | `07`| [Order by Age](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Objects%20and%20Classes%20-%20Exercises/07.OrderByAge.cs) |    |  |
+
+</details>
+</li>
+</ul>
+ 
 </details>
 
 <details><summary><h3>C# Advanced</h3></summary>
