@@ -202,6 +202,29 @@ My solutions for SoftUni Homeworks and Projects.
 </details>
 </li>
 </ul>
+
+<ul><li>
+<details><summary><h4>Lists</h4></summary>
+
+| № | Lab | № | Exercises | № | More Exercises |                     
+| ---: | :--- | ---: | :---| ---:| :---|                      
+| `01` | [Sum Adjacent Equal Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Lab/01.SumAdjacentEqualNumbers.cs) | `01`| [Train](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Exercises/01.Train.cs) |  `01` | [Messaging](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20More%20Exercises/01.Messaging.cs) |    
+| `02` | [Gauss' Trick](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Lab/02.GaussTrick.cs) | `02` | [Change List](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Exercises/02.ChangeList.cs) |  `02` | [Car Race](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20More%20Exercises/02.CarRace.cs) |
+| `03` | [Merging Lists](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Lab/03.MergingLists.cs) | `03`| [House Party](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Exercises/03.HouseParty.cs) |   `03` | [Take/Skip Rope](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20More%20Exercises/03.TakeSkipRope.cs) |
+| `04` | [List of Products](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Lab/04.ListOfProducts.cs) | `04` | [List Operations](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Exercises/04.ListOperations.cs) |  `04` | [Mixed up Lists](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20More%20Exercises/04.MixedUpLists.cs) |
+| `05` | [Remove Negatives and Reverse](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Lab/05.RemoveNegativesAndReverse.cs) | `05`| [Bomb Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Exercises/05.BombNumbers.cs) |  `05` | [Drum Set](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20More%20Exercises/05.DrumSet.cs) |
+| `06` | [List Manipulation Basics](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Lab/06.ListManipulationBasics.cs) | `06`| [Cards Game](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Exercises/06.CardsGame.cs) |   |  |
+| `07` | [List Manipulation Advanced](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Lab/07.ListManipulationAdvanced.cs) | `07`| [Append Arrays](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Exercises/07.AppendArrays.cs) |    |  |
+|  |  | `08` | [Anonymous Threat](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Exercises/08.AnonymousThreat.cs) |  |  |
+|  |  | `09` | [Pokemon Don't Go](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Exercises/09.PokemonDon'tGo.cs)  |  | |
+|  |  | `10` | [SoftUni Course Planning](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Lists%20-%20Exercises/10.SoftUniCoursePlanning.cs) | |  |
+
+
+
+</details>
+</li>
+</ul>
+
 </details>
 
 <details><summary><h3>C# Advanced</h3></summary>
