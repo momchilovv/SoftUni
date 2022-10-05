@@ -406,6 +406,25 @@ My solutions for SoftUni problems, tasks, homeworks and exams.
 </details>
 </li>
 </ul>
+<ul><li>
+<details><summary><h4>Defining Classes</h4></summary>
+
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Car](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Lab/01.Car) | `01`| [Define a Class Person](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/01.Define%20a%20Class%20Person) |       
+| `02` | [Car Extension](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Lab/02.Car%20Extension) | `02` | [Creating Constructors](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/02.Creating%20Constructors) |
+| `03` | [Car Constructors](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Lab/03.Car%20Constructors) | `03`| [Oldest Family Member](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/03.Oldest%20Family%20Member) |
+| `04` | [Car Engine and Tires](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Lab/04.Car%20Engine%20and%20Tires) | `04` | [Opinion Poll](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/04.Opinion%20Poll) |
+| `05` | [Special Cars](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Lab/05.Special%20Cars) | `05`| [Date Modifier](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/05.Date%20Modifier) |
+|  |  | `06`| [Speed Racing](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/06.Speed%20Racing) |
+|  |  | `07`| [Raw Data](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/07.Raw%20Data) |
+|  |  | `08` | [Car Salesman](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/08.Car%20Salesman) |
+|  |  | `09` | [Pokemon Trainer](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/09.Pokemon%20Trainer) |
+|  |  | `10` | [SoftUni Parking](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/10.SoftUni%20Parking) |
+
+</details>
+</li>
+</ul>
 
 
 </details>
