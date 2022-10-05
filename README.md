@@ -239,7 +239,24 @@ My solutions for SoftUni Homeworks and Projects.
 </details>
 </li>
 </ul>
- 
+ <ul><li>
+<details><summary><h4>Associative Arrays</h4></summary>
+
+| № | Lab | № | Exercises | № | More Exercises |                     
+| ---: | :--- | ---: | :---| ---:| :---|                      
+| `01` | [Count Real Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Lab/01.CountRealNumbers.cs) | `01`| [Count Chars in a String](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Exercises/01.CountCharsInAString.cs) |  `01` | [Ranking](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20More%20Exercises/01.Ranking.cs) |    
+| `02` | [Odd Occurrences](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Lab/02.OddOccurences.cs) | `02` | [A Miner Task](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Exercises/02.AMinerTask.cs) |  `02` | [Judge](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20More%20Exercises/02.Judge.cs) |
+| `03` | [Word Synonyms](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Lab/03.WordSynonyms.cs) | `03`| [Orders](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Exercises/03.Orders.cs) |   `03` | [MOBA Challenger](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20More%20Exercises/03.MOBAChallenger.cs) |
+| `04` | [Word Filter](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Lab/04.WordFilter.cs) | `04` | [SoftUni Parking](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Exercises/04.SoftUniParking.cs) |  `04` | [SnowWhite](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20More%20Exercises/04.SnowWhite.cs) |
+|  |  | `05`| [Courses](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Exercises/05.Courses.cs) |  `05` | [Dragon Army](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20More%20Exercises/05.DragonArmy.cs) |
+|  |  | `06`| [Student Academy](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Exercises/06.StudentAcademy.cs) |   |  |
+|  |  | `07`| [Company Users](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Exercises/07.CompanyUsers.cs) |    |  |
+
+
+
+</details>
+</li>
+</ul>
 </details>
 
 <details><summary><h3>C# Advanced</h3></summary>
