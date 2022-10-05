@@ -275,6 +275,24 @@ My solutions for SoftUni Homeworks and Projects.
 </details>
 </li>
 </ul>
+
+<ul><li>
+<details><summary><h4>Lists</h4></summary>
+
+| № | Lab | № | Exercises | № | More Exercises |                     
+| ---: | :--- | ---: | :---| ---:| :---|                      
+| `01` | [Match Full Name](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20Lab/01.MatchFullName.cs) | `01`| [Furniture](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20Exercises/01.Furniture.cs) |  `01` | [Winning Ticket](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20More%20Exercises/01.WinningTicket.cs) |    
+| `02` | [Match Phone Number](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20Lab/02.MatchPhoneNumber.cs) | `02` | [Race](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20Exercises/02.Race.cs) |  `02` | [Rage Quit](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20More%20Exercises/02.RageQuit.cs) |
+| `03` | [Match Dates](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20Lab/03.MatchDates.cs) | `03`| [SoftUni Bar Income](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20Exercises/03.SoftUniBarIncome.cs) |   `03` | [Post Office](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20More%20Exercises/03.PostOffice.cs) |
+|  |  | `04` | [Star Enigma](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20Exercises/04.StarEnigma.cs) |  `04` | [Santa's Secret Helper](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20More%20Exercises/04.SantasSecretHelper.cs) |
+|  |  | `05`| [Nether Realms](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20Exercises/05.NetherRealms.cs) |   |  |
+|  |  | `06`| [Extract Emails](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20Exercises/06.ExtractEmails.cs) |   |  |
+
+
+</details>
+</li>
+</ul>
+
 </details>
 
 <details><summary><h3>C# Advanced</h3></summary>
