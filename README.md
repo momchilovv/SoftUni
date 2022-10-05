@@ -253,6 +253,24 @@ My solutions for SoftUni Homeworks and Projects.
 |  |  | `07`| [Company Users](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Exercises/07.CompanyUsers.cs) |    |  |
 
 
+</details>
+</li>
+</ul>
+
+<ul><li>
+<details><summary><h4>Text Processing</h4></summary>
+
+| № | Lab | № | Exercises | № | More Exercises |                     
+| ---: | :--- | ---: | :---| ---:| :---|                      
+| `01` | [Reverse Strings](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Lab/01.ReverseStrings.cs) | `01`| [Valid Usernames](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Exercises/01.ValidUsernames.cs) |  `01` | [Extract Person Information](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20More%20Exercises/01.ExtractPersonInformation.cs) |    
+| `02` | [Repeat Strings](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Lab/02.RepeatStrings.cs) | `02` | [Character Multiplier](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Exercises/02.CharacterMultiplier.cs) |  `02` | [ASCII Sumator](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20More%20Exercises/02.ASCIISumator.cs) |
+| `03` | [Substring](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Lab/03.Substring.cs) | `03`| [Extract File](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Exercises/03.ExtractFile.cs) |   `03` | [Treasure Finder](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20More%20Exercises/03.TreasureFinder.cs) |
+| `04` | [Text Filter](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Lab/04.TextFilter.cs) | `04` | [Caesar Cipher](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Exercises/04.CaesarCipher.cs) |  `04` | [Morse Code Translator](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20More%20Exercises/04.MorseCodeTranslator.cs) |
+| `05` | [Digits, Letters and Other](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Lab/05.DigitsLettersAndOther.cs) | `05`| [Multiply Big Number](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Exercises/05.MultiplyBigNumber.cs) |  `05` | [HTML](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20More%20Exercises/05.HTML.cs) |
+|  |  | `06`| [Replace Repeating Chars](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Exercises/06.ReplaceRepeatingChars.cs) |   |  |
+|  |  | `07`| [String Explosion](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Exercises/07.StringExplosion.cs) |    |  |
+|  |  | `08` | [Letters Change Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Exercises/08.LettersChangeNumbers.cs) |  |  |
+
 
 </details>
 </li>
