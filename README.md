@@ -277,7 +277,7 @@ My solutions for SoftUni Homeworks and Projects.
 </ul>
 
 <ul><li>
-<details><summary><h4>Lists</h4></summary>
+<details><summary><h4>Regular Expressions</h4></summary>
 
 | № | Lab | № | Exercises | № | More Exercises |                     
 | ---: | :--- | ---: | :---| ---:| :---|                      
