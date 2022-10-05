@@ -331,6 +331,27 @@ My solutions for SoftUni problems, tasks, homeworks and exams.
 </details>
 </li>
 </ul>
+<ul><li>
+<details><summary><h4>NAME</h4></summary>
+
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Sum Matrix Elements](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Lab/01.SumMatrixElements.cs) | `01`| [Diagonal Difference](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/01.DiagonalDifference.cs) |       
+| `02` | [Sum Matrix Columns](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Lab/02.SumMatrixColumns.cs) | `02` | [Squares in Matrix](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/02.SquareInMatrix.cs) |
+| `03` | [Primary Diagonal](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Lab/03.PrimaryDiagonal.cs) | `03`| [Maximal Sum](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/03.MaximalSum.cs) |
+| `04` | [Symbol in Matrix](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Lab/04.SymbolInMatrix.cs) | `04` | [Matrix Shuffling](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/04.MatrixShuffling.cs) |
+| `05` | [Square with Maximum Sum](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Lab/05.SquareWithMaximumSum.cs) | `05`| [Snake Moves](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/05.SnakeMoves.cs) |
+| `06` | [Jagged-Array Modification](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Lab/06.JaggedArrayModification.cs) | `06`| [Jagged Array Manipulator](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/06.JaggedArrayManipulator.cs) |
+| `07` | [Pascal Triangle](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Lab/07.PascalTriangle.cs) | `07`| [Knight Game](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/07.KnightGame.cs) |
+|  |  | `08` | [Bombs](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/08.Bombs.cs) |
+|  |  | `09` | [Miner](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/09.Miner.cs) |
+|  |  | `10` | [Radioactive Mutant Vampire Bunnies](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/10.RadioactiveMutantVampireBunnies.cs) |
+
+</details>
+</li>
+</ul>
+
+
 </details>
 <details><summary><h3>C# OOP</h4></summary>
 
