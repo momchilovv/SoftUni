@@ -292,7 +292,17 @@ My solutions for SoftUni Homeworks and Projects.
 </details>
 </li>
 </ul>
+ 
+ <ul><li>
+  <details><summary><h4>Certificate</h4></summary>
+ 
+ <p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/26198872/194119414-1584b8da-4efc-4f1c-89b5-cedebd6202e7.jpeg"><img src="https://user-images.githubusercontent.com/26198872/194119414-1584b8da-4efc-4f1c-89b5-cedebd6202e7.jpeg" style="max-width: 50%;"></a>
 
+ </p>
+  </details>
+  </li>
+ </ul>
 </details>
 
 <details><summary><h3>C# Advanced</h3></summary>
