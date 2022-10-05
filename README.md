@@ -369,6 +369,22 @@ My solutions for SoftUni problems, tasks, homeworks and exams.
 </details>
 </li>
 </ul>
+<ul><li>
+<details><summary><h4>Streams, Files and Directories</h4></summary>
+
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Odd Lines](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Lab/01.OddLines.cs) | `01`| [Even Lines](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Exercises/01.EvenLines.cs) |       
+| `02` | [Line Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Lab/02.LineNumbers.cs) | `02` | [Line Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Exercises/02.LineNumbers.cs) |
+| `03` | [Word Count](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Lab/03.WordCount.cs) | `03`| [Copy Binary File](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Exercises/03.CopyBinaryFile.cs) |
+| `04` | [Merge Text Files](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Lab/04.MergeFiles.cs) | `04` | [Directory Traversal](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Exercises/04.DirectoryTraversal.cs) |
+| `05` | [Extract Special Bytes](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Lab/05.ExtractSpecialBytes.cs) | `05`| [Copy Directory](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Exercises/05.CopyDirectory.cs) |
+| `06` | [Split, Merge Binary Files](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Lab/06.SplitMergeBinaryFiles.cs) | `06`| [Zip and Extracts](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Exercises/06.ZipAndExtract.cs) |
+| `07` | [Folder Size](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Lab/07.FolderSize.cs) | |  |
+
+</details>
+</li>
+</ul>
 
 
 </details>
