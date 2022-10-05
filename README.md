@@ -332,7 +332,7 @@ My solutions for SoftUni problems, tasks, homeworks and exams.
 </li>
 </ul>
 <ul><li>
-<details><summary><h4>NAME</h4></summary>
+<details><summary><h4>Multidimensional Arrays</h4></summary>
 
 | № | Lab | № | Exercises |                       
 | ---: | :--- | ---: | :---|                       
@@ -346,6 +346,25 @@ My solutions for SoftUni problems, tasks, homeworks and exams.
 |  |  | `08` | [Bombs](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/08.Bombs.cs) |
 |  |  | `09` | [Miner](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/09.Miner.cs) |
 |  |  | `10` | [Radioactive Mutant Vampire Bunnies](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/10.RadioactiveMutantVampireBunnies.cs) |
+
+</details>
+</li>
+</ul>
+<ul><li>
+<details><summary><h4>Sets and Dictionaries Advanced</h4></summary>
+
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Count Same Values in Array](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Lab/01.CountSameValuesInArray.cs) | `01`| [Unique Usernames](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/01.UniqueUsernames.cs) |       
+| `02` | [Average Student Grades](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Lab/02.AverageStudentGrades.cs) | `02` | [Sets of Elements](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/02.SetsOfElements.cs) |
+| `03` | [Largest 3 Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Lab/03.Largest3Numbers.cs) | `03`| [Periodic Table](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/03.PeriodicTable.cs) |
+| `04` | [Product Shop](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Lab/04.ProductShop.cs) | `04` | [Even Times](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/04.EvenTimes.cs) |
+| `05` | [Cities by Continent and Country](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Lab/05.CitiesByContinentAndCountry.cs) | `05`| [Count Symbols](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/05.CountSymbols.cs) |
+| `06` | [Record Unique Names](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Lab/06.RecordUniqueNames.cs) | `06`| [Wardrobe](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/06.Wardrobe.cs) |
+| `07` | [Parking Lot](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Lab/07.ParkingLot.cs) | `07`| [The V-Logger](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/07.TheV-Logger.cs) |
+| `08` | [SoftUni Party](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Lab/08.SoftUniParty.cs) | `08` | [Ranking](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/08.Ranking.cs) |
+|  |  | `09` | [SoftUni Exam Results](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/09.SoftUniExamResults.cs) |
+|  |  | `10` | [ForceBook](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/10.ForceBook.cs) |
 
 </details>
 </li>
