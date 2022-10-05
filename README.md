@@ -308,4 +308,39 @@ My solutions for SoftUni problems, tasks, homeworks and exams.
 </details>
 
 <details><summary><h3>C# Advanced</h3></summary>
+<ul><li>
+<details><summary><h3>C# Advanced</h4></summary>
+<ul><li>
+<details><summary><h4>Stacks and Queues</h4></summary>
+
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Reverse a String](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Lab/01.ReverseAString.cs) | `01`| [Basic Stack Operations](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/01.BasicStackOperations.cs) |       
+| `02` | [Stack Sum](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Lab/02.StackSum.cs) | `02` | [Basic Queue Operations](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/02.BasicQueueOperations.cs) |
+| `03` | [Simple Calculator](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Lab/03.SimpleCalculator.cs) | `03`| [Maximum and Minimum Element](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/03.MaximumAndMinimumElement.cs) |
+| `04` | [Matching Brackets](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Lab/04.MatchingBrackets.cs) | `04` | [Fast Food](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/04.FastFood.cs) |
+| `05` | [Print Even Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Lab/05.PrintEvenNumbers.cs) | `05`| [Fashion Botique](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/05.FashionBoutique.cs) |
+| `06` | [Supermarket](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Lab/06.Supermarket.cs) | `06`| [Songs Queue](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/06.SongsQueue.cs) |
+| `07` | [Hot Potato](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Lab/07.HotPotato.cs) | `07`| [Truck Tour](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/07.TruckTour.cs) |
+| `08` | [Traffic Jam](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Lab/08.TrafficJam.cs) | `08` | [Balanced Parenthesis](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/08.BalancedParenthesis.cs) |
+|  |  | `09` | [Simple Text Editor](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/09.SimpleTextEditor.cs) |
+|  |  | `10` | [Crossroads](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/10.Crossroads.cs) |
+|  |  | `11` | [Key Revolver](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/11.KeyRevolver.cs) |
+|  |  | `12` | [Cups and Bottles](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/12.CupsAndBottles.cs) |
+
+</details>
+</li>
+</ul>
+</details>
+<details><summary><h3>C# OOP</h4></summary>
+
+</details>
+</ul></li>
+
+
+</details>
+
+
+
+
 </details>
