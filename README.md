@@ -385,6 +385,27 @@ My solutions for SoftUni problems, tasks, homeworks and exams.
 </details>
 </li>
 </ul>
+<ul><li>
+<details><summary><h4>Functional Programming</h4></summary>
+
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Sort Even Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Lab/01.SortEvenNumbers.cs) | `01`| [Action Print](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/01.ActionPoint.cs) |       
+| `02` | [Sum Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Lab/02.SumNumbers.cs) | `02` | [Knights of Honor](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/02.KnightsOfHonor.cs) |
+| `03` | [Count Uppercase Words](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Lab/03.CountUppercaseWords.cs) | `03`| [Custom Min Function](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/03.CustomMinFunction.cs) |
+| `04` | [Add VAT](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Lab/04.AddVAT.cs) | `04` | [Find Evens or Odds](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/04.FindEvensOrOdds.cs) |
+| `05` | [Filter by Age](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Lab/05.FilterByAge.cs) | `05`| [Applied Arithmetics](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/05.AppliedArithmetics.cs) |
+|  |  | `06`| [Reverse and Exclude](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/06.ReverseAndExclude.cs) |
+|  |  | `07`| [Predicate for Names](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/07.PredicateForNames.cs) |
+|  |  | `08` | [List of Predicates](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/08.ListOfPredicates.cs) |
+|  |  | `09` | [Predicate Party](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/09.PredicateParty.cs) |
+|  |  | `10` | [The Party Reservation Filter Module](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/10.ThePartyReservationFilterModule.cs) |
+|  |  | `11` | [TriFunction](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/11.TriFunction.cs) |
+
+
+</details>
+</li>
+</ul>
 
 
 </details>
