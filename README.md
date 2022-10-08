@@ -1,5 +1,7 @@
-# SoftUni
-My solutions for SoftUni Homeworks and Projects.
+# ![](https://user-images.githubusercontent.com/26198872/194121561-e4609eaa-6288-4e4a-90b9-efe4ab9c22ed.png)  SoftUni  
+
+My solutions for SoftUni problems, tasks, homeworks and exams. 
+
 <details><summary><h3>Programming Basics</h3></summary>
 
 <ul><li>
@@ -239,8 +241,202 @@ My solutions for SoftUni Homeworks and Projects.
 </details>
 </li>
 </ul>
+ <ul><li>
+<details><summary><h4>Associative Arrays</h4></summary>
+
+| № | Lab | № | Exercises | № | More Exercises |                     
+| ---: | :--- | ---: | :---| ---:| :---|                      
+| `01` | [Count Real Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Lab/01.CountRealNumbers.cs) | `01`| [Count Chars in a String](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Exercises/01.CountCharsInAString.cs) |  `01` | [Ranking](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20More%20Exercises/01.Ranking.cs) |    
+| `02` | [Odd Occurrences](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Lab/02.OddOccurences.cs) | `02` | [A Miner Task](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Exercises/02.AMinerTask.cs) |  `02` | [Judge](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20More%20Exercises/02.Judge.cs) |
+| `03` | [Word Synonyms](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Lab/03.WordSynonyms.cs) | `03`| [Orders](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Exercises/03.Orders.cs) |   `03` | [MOBA Challenger](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20More%20Exercises/03.MOBAChallenger.cs) |
+| `04` | [Word Filter](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Lab/04.WordFilter.cs) | `04` | [SoftUni Parking](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Exercises/04.SoftUniParking.cs) |  `04` | [SnowWhite](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20More%20Exercises/04.SnowWhite.cs) |
+|  |  | `05`| [Courses](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Exercises/05.Courses.cs) |  `05` | [Dragon Army](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20More%20Exercises/05.DragonArmy.cs) |
+|  |  | `06`| [Student Academy](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Exercises/06.StudentAcademy.cs) |   |  |
+|  |  | `07`| [Company Users](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Associative%20Arrays%20-%20Exercises/07.CompanyUsers.cs) |    |  |
+
+
+</details>
+</li>
+</ul>
+
+<ul><li>
+<details><summary><h4>Text Processing</h4></summary>
+
+| № | Lab | № | Exercises | № | More Exercises |                     
+| ---: | :--- | ---: | :---| ---:| :---|                      
+| `01` | [Reverse Strings](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Lab/01.ReverseStrings.cs) | `01`| [Valid Usernames](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Exercises/01.ValidUsernames.cs) |  `01` | [Extract Person Information](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20More%20Exercises/01.ExtractPersonInformation.cs) |    
+| `02` | [Repeat Strings](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Lab/02.RepeatStrings.cs) | `02` | [Character Multiplier](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Exercises/02.CharacterMultiplier.cs) |  `02` | [ASCII Sumator](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20More%20Exercises/02.ASCIISumator.cs) |
+| `03` | [Substring](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Lab/03.Substring.cs) | `03`| [Extract File](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Exercises/03.ExtractFile.cs) |   `03` | [Treasure Finder](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20More%20Exercises/03.TreasureFinder.cs) |
+| `04` | [Text Filter](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Lab/04.TextFilter.cs) | `04` | [Caesar Cipher](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Exercises/04.CaesarCipher.cs) |  `04` | [Morse Code Translator](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20More%20Exercises/04.MorseCodeTranslator.cs) |
+| `05` | [Digits, Letters and Other](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Lab/05.DigitsLettersAndOther.cs) | `05`| [Multiply Big Number](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Exercises/05.MultiplyBigNumber.cs) |  `05` | [HTML](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20More%20Exercises/05.HTML.cs) |
+|  |  | `06`| [Replace Repeating Chars](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Exercises/06.ReplaceRepeatingChars.cs) |   |  |
+|  |  | `07`| [String Explosion](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Exercises/07.StringExplosion.cs) |    |  |
+|  |  | `08` | [Letters Change Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Text%20Processing%20-%20Exercises/08.LettersChangeNumbers.cs) |  |  |
+
+
+</details>
+</li>
+</ul>
+
+<ul><li>
+<details><summary><h4>Regular Expressions</h4></summary>
+
+| № | Lab | № | Exercises | № | More Exercises |                     
+| ---: | :--- | ---: | :---| ---:| :---|                      
+| `01` | [Match Full Name](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20Lab/01.MatchFullName.cs) | `01`| [Furniture](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20Exercises/01.Furniture.cs) |  `01` | [Winning Ticket](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20More%20Exercises/01.WinningTicket.cs) |    
+| `02` | [Match Phone Number](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20Lab/02.MatchPhoneNumber.cs) | `02` | [Race](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20Exercises/02.Race.cs) |  `02` | [Rage Quit](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20More%20Exercises/02.RageQuit.cs) |
+| `03` | [Match Dates](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20Lab/03.MatchDates.cs) | `03`| [SoftUni Bar Income](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20Exercises/03.SoftUniBarIncome.cs) |   `03` | [Post Office](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20More%20Exercises/03.PostOffice.cs) |
+|  |  | `04` | [Star Enigma](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20Exercises/04.StarEnigma.cs) |  `04` | [Santa's Secret Helper](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20More%20Exercises/04.SantasSecretHelper.cs) |
+|  |  | `05`| [Nether Realms](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20Exercises/05.NetherRealms.cs) |   |  |
+|  |  | `06`| [Extract Emails](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Fundamentals/Regular%20Expressions%20-%20Exercises/06.ExtractEmails.cs) |   |  |
+
+
+</details>
+</li>
+</ul>
  
+ <ul><li>
+  <details><summary><h4>Certificate</h4></summary>
+ 
+ <p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/26198872/194119414-1584b8da-4efc-4f1c-89b5-cedebd6202e7.jpeg"><img src="https://user-images.githubusercontent.com/26198872/194119414-1584b8da-4efc-4f1c-89b5-cedebd6202e7.jpeg" style="max-width: 50%;"></a>
+
+ </p>
+  </details>
+  </li>
+ </ul>
 </details>
 
 <details><summary><h3>C# Advanced</h3></summary>
+<ul><li>
+<details><summary><h3>C# Advanced</h4></summary>
+<ul><li>
+<details><summary><h4>Stacks and Queues</h4></summary>
+
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Reverse a String](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Lab/01.ReverseAString.cs) | `01`| [Basic Stack Operations](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/01.BasicStackOperations.cs) |       
+| `02` | [Stack Sum](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Lab/02.StackSum.cs) | `02` | [Basic Queue Operations](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/02.BasicQueueOperations.cs) |
+| `03` | [Simple Calculator](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Lab/03.SimpleCalculator.cs) | `03`| [Maximum and Minimum Element](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/03.MaximumAndMinimumElement.cs) |
+| `04` | [Matching Brackets](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Lab/04.MatchingBrackets.cs) | `04` | [Fast Food](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/04.FastFood.cs) |
+| `05` | [Print Even Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Lab/05.PrintEvenNumbers.cs) | `05`| [Fashion Botique](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/05.FashionBoutique.cs) |
+| `06` | [Supermarket](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Lab/06.Supermarket.cs) | `06`| [Songs Queue](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/06.SongsQueue.cs) |
+| `07` | [Hot Potato](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Lab/07.HotPotato.cs) | `07`| [Truck Tour](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/07.TruckTour.cs) |
+| `08` | [Traffic Jam](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Lab/08.TrafficJam.cs) | `08` | [Balanced Parenthesis](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/08.BalancedParenthesis.cs) |
+|  |  | `09` | [Simple Text Editor](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/09.SimpleTextEditor.cs) |
+|  |  | `10` | [Crossroads](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/10.Crossroads.cs) |
+|  |  | `11` | [Key Revolver](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/11.KeyRevolver.cs) |
+|  |  | `12` | [Cups and Bottles](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/12.CupsAndBottles.cs) |
+
+</details>
+</li>
+</ul>
+<ul><li>
+<details><summary><h4>Multidimensional Arrays</h4></summary>
+
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Sum Matrix Elements](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Lab/01.SumMatrixElements.cs) | `01`| [Diagonal Difference](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/01.DiagonalDifference.cs) |       
+| `02` | [Sum Matrix Columns](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Lab/02.SumMatrixColumns.cs) | `02` | [Squares in Matrix](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/02.SquareInMatrix.cs) |
+| `03` | [Primary Diagonal](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Lab/03.PrimaryDiagonal.cs) | `03`| [Maximal Sum](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/03.MaximalSum.cs) |
+| `04` | [Symbol in Matrix](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Lab/04.SymbolInMatrix.cs) | `04` | [Matrix Shuffling](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/04.MatrixShuffling.cs) |
+| `05` | [Square with Maximum Sum](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Lab/05.SquareWithMaximumSum.cs) | `05`| [Snake Moves](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/05.SnakeMoves.cs) |
+| `06` | [Jagged-Array Modification](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Lab/06.JaggedArrayModification.cs) | `06`| [Jagged Array Manipulator](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/06.JaggedArrayManipulator.cs) |
+| `07` | [Pascal Triangle](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Lab/07.PascalTriangle.cs) | `07`| [Knight Game](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/07.KnightGame.cs) |
+|  |  | `08` | [Bombs](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/08.Bombs.cs) |
+|  |  | `09` | [Miner](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/09.Miner.cs) |
+|  |  | `10` | [Radioactive Mutant Vampire Bunnies](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Multidimensional%20Arrays%20-%20Exercises/10.RadioactiveMutantVampireBunnies.cs) |
+
+</details>
+</li>
+</ul>
+<ul><li>
+<details><summary><h4>Sets and Dictionaries Advanced</h4></summary>
+
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Count Same Values in Array](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Lab/01.CountSameValuesInArray.cs) | `01`| [Unique Usernames](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/01.UniqueUsernames.cs) |       
+| `02` | [Average Student Grades](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Lab/02.AverageStudentGrades.cs) | `02` | [Sets of Elements](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/02.SetsOfElements.cs) |
+| `03` | [Largest 3 Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Lab/03.Largest3Numbers.cs) | `03`| [Periodic Table](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/03.PeriodicTable.cs) |
+| `04` | [Product Shop](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Lab/04.ProductShop.cs) | `04` | [Even Times](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/04.EvenTimes.cs) |
+| `05` | [Cities by Continent and Country](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Lab/05.CitiesByContinentAndCountry.cs) | `05`| [Count Symbols](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/05.CountSymbols.cs) |
+| `06` | [Record Unique Names](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Lab/06.RecordUniqueNames.cs) | `06`| [Wardrobe](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/06.Wardrobe.cs) |
+| `07` | [Parking Lot](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Lab/07.ParkingLot.cs) | `07`| [The V-Logger](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/07.TheV-Logger.cs) |
+| `08` | [SoftUni Party](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Lab/08.SoftUniParty.cs) | `08` | [Ranking](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/08.Ranking.cs) |
+|  |  | `09` | [SoftUni Exam Results](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/09.SoftUniExamResults.cs) |
+|  |  | `10` | [ForceBook](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises/10.ForceBook.cs) |
+
+</details>
+</li>
+</ul>
+<ul><li>
+<details><summary><h4>Streams, Files and Directories</h4></summary>
+
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Odd Lines](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Lab/01.OddLines.cs) | `01`| [Even Lines](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Exercises/01.EvenLines.cs) |       
+| `02` | [Line Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Lab/02.LineNumbers.cs) | `02` | [Line Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Exercises/02.LineNumbers.cs) |
+| `03` | [Word Count](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Lab/03.WordCount.cs) | `03`| [Copy Binary File](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Exercises/03.CopyBinaryFile.cs) |
+| `04` | [Merge Text Files](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Lab/04.MergeFiles.cs) | `04` | [Directory Traversal](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Exercises/04.DirectoryTraversal.cs) |
+| `05` | [Extract Special Bytes](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Lab/05.ExtractSpecialBytes.cs) | `05`| [Copy Directory](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Exercises/05.CopyDirectory.cs) |
+| `06` | [Split, Merge Binary Files](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Lab/06.SplitMergeBinaryFiles.cs) | `06`| [Zip and Extracts](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Exercises/06.ZipAndExtract.cs) |
+| `07` | [Folder Size](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Streams%2C%20Files%20and%20Directories%20-%20Lab/07.FolderSize.cs) | |  |
+
+</details>
+</li>
+</ul>
+<ul><li>
+<details><summary><h4>Functional Programming</h4></summary>
+
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Sort Even Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Lab/01.SortEvenNumbers.cs) | `01`| [Action Print](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/01.ActionPoint.cs) |       
+| `02` | [Sum Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Lab/02.SumNumbers.cs) | `02` | [Knights of Honor](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/02.KnightsOfHonor.cs) |
+| `03` | [Count Uppercase Words](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Lab/03.CountUppercaseWords.cs) | `03`| [Custom Min Function](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/03.CustomMinFunction.cs) |
+| `04` | [Add VAT](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Lab/04.AddVAT.cs) | `04` | [Find Evens or Odds](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/04.FindEvensOrOdds.cs) |
+| `05` | [Filter by Age](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Lab/05.FilterByAge.cs) | `05`| [Applied Arithmetics](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/05.AppliedArithmetics.cs) |
+|  |  | `06`| [Reverse and Exclude](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/06.ReverseAndExclude.cs) |
+|  |  | `07`| [Predicate for Names](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/07.PredicateForNames.cs) |
+|  |  | `08` | [List of Predicates](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/08.ListOfPredicates.cs) |
+|  |  | `09` | [Predicate Party](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/09.PredicateParty.cs) |
+|  |  | `10` | [The Party Reservation Filter Module](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/10.ThePartyReservationFilterModule.cs) |
+|  |  | `11` | [TriFunction](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Functional%20Programming%20-%20Exercises/11.TriFunction.cs) |
+
+
+</details>
+</li>
+</ul>
+<ul><li>
+<details><summary><h4>Defining Classes</h4></summary>
+
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Car](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Lab/01.Car) | `01`| [Define a Class Person](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/01.Define%20a%20Class%20Person) |       
+| `02` | [Car Extension](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Lab/02.Car%20Extension) | `02` | [Creating Constructors](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/02.Creating%20Constructors) |
+| `03` | [Car Constructors](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Lab/03.Car%20Constructors) | `03`| [Oldest Family Member](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/03.Oldest%20Family%20Member) |
+| `04` | [Car Engine and Tires](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Lab/04.Car%20Engine%20and%20Tires) | `04` | [Opinion Poll](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/04.Opinion%20Poll) |
+| `05` | [Special Cars](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Lab/05.Special%20Cars) | `05`| [Date Modifier](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/05.Date%20Modifier) |
+|  |  | `06`| [Speed Racing](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/06.Speed%20Racing) |
+|  |  | `07`| [Raw Data](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/07.Raw%20Data) |
+|  |  | `08` | [Car Salesman](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/08.Car%20Salesman) |
+|  |  | `09` | [Pokemon Trainer](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/09.Pokemon%20Trainer) |
+|  |  | `10` | [SoftUni Parking](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Defining%20Classes%20-%20Exercises/10.SoftUni%20Parking) |
+
+</details>
+</li>
+</ul>
+
+
+</details>
+<details><summary><h3>C# OOP</h4></summary>
+
+</details>
+</ul></li>
+
+
+</details>
+
+
+
+
 </details>
