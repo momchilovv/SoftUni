@@ -1,6 +1,6 @@
 # ![](https://user-images.githubusercontent.com/26198872/194121561-e4609eaa-6288-4e4a-90b9-efe4ab9c22ed.png)  SoftUni  
 
-My solutions for SoftUni homework, tasks and exams. All of the solutions provided in this repository are evaluated with 100 points in the </br>**[Open Judge System](https://github.com/NikolayIT/OpenJudgeSystem)** at **[softuni.bg](https://judge.softuni.org/)**. You can use the quick links below if you want to see the solution for particular task. Over time, some of the tasks in the modules may be changed/removed and new ones may be added.
+My solutions for SoftUni homework, tasks and exams. All of the solutions provided in this repository are evaluated with 100 points in the **[Open Judge System](https://github.com/NikolayIT/OpenJudgeSystem)** at **[softuni.bg](https://judge.softuni.org/)**. You can use the quick links below if you want to see the solution for particular task. Over time, some of the tasks in the modules may be changed/removed and new ones may be added.
 
 ---
 
