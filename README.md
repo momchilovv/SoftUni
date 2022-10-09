@@ -457,8 +457,6 @@ My solutions for SoftUni problems, tasks, homeworks and exams.
 |  |  | `05`| [Comparing Objects]() |
 |  |  | `06`| [Equality Logic]() |
 |  |  | `07`| [Custom Comparator]() |
-|  |  |  |  |
-|  |  |  |  |
 
 
 </details>
