@@ -445,6 +445,25 @@ My solutions for SoftUni problems, tasks, homeworks and exams.
 </li>
 </ul>
 
+<ul><li>
+<details><summary><h4>Iterators and Comparators</h4></summary>
+
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Library]() | `01`| [Listy Iterator]() |       
+| `02` | [Library Iterator]() | `02` | [Collection]() |
+| `03` | [Comparable Book]() | `03`| [Stack]() |
+| `04` | [Book Comparer]() | `04` | [Froggy]() |
+|  |  | `05`| [Comparing Objects]() |
+|  |  | `06`| [Equality Logic]() |
+|  |  | `07`| [Custom Comparator]() |
+|  |  |  |  |
+|  |  |  |  |
+
+
+</details>
+</li>
+</ul>
 
 </details>
 <details><summary><h3>C# OOP</h4></summary>
