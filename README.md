@@ -426,6 +426,25 @@ My solutions for SoftUni problems, tasks, homeworks and exams.
 </li>
 </ul>
 
+<ul><li>
+<details><summary><h4>Generics</h4></summary>
+
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Box]() | `01`| [Generic Box of Strings]() |       
+| `02` | [Array Creator]() | `02` | [Generic Box of Integer]() |
+| `03` | [Generic Scale]() | `03`| [Generic Swap Method String]() |
+|  |  | `04` | [Generic Swap Method Integer]() |
+|  |  | `05`| [Generic Count Method String]() |
+|  |  | `06`| [Generic Count Method Double]() |
+|  |  | `07`| [Tuple]() |
+|  |  | `08` | [Threeuple]() |
+|  |  | `09` | [Custom Linked List]() |
+
+</details>
+</li>
+</ul>
+
 
 </details>
 <details><summary><h3>C# OOP</h4></summary>
