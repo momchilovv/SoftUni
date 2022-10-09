@@ -462,6 +462,24 @@ My solutions for SoftUni problems, tasks, homeworks and exams.
 </details>
 </li>
 </ul>
+ 
+ <ul><li>
+<details><summary><h4>Basic Algorithms</h4></summary>
+
+|  |  | № | Exercises |                       
+|  |  | ---: | :---|                       
+|  |  | `01`| [Recursive Array Sum]() |       
+|  |  | `02` | [Recursive Factorial]() |
+|  |  | `03`| [Sum of Coins]() |
+|  |  | `04` | [Set Cover]() |
+|  |  | `05`| [Merge Sort]() |
+|  |  | `06`| [Quicksort]() |
+|  |  | `07`| [Binary Search]() |
+
+
+</details>
+</li>
+</ul>
 
 </details>
 <details><summary><h3>C# OOP</h4></summary>
