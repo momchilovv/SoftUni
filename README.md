@@ -433,15 +433,15 @@ All of the solutions provided in this repository are evaluated with 100 points i
 
 | № | Lab | № | Exercises |                       
 | ---: | :--- | ---: | :---|                       
-| `01` | [Box]() | `01`| [Generic Box of Strings]() |       
-| `02` | [Array Creator]() | `02` | [Generic Box of Integer]() |
-| `03` | [Generic Scale]() | `03`| [Generic Swap Method String]() |
-|  |  | `04` | [Generic Swap Method Integer]() |
-|  |  | `05`| [Generic Count Method String]() |
-|  |  | `06`| [Generic Count Method Double]() |
-|  |  | `07`| [Tuple]() |
-|  |  | `08` | [Threeuple]() |
-|  |  | `09` | [Custom Linked List]() |
+| `01` | [Box](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Generics%20-%20Lab/01.Box%20of%20T) | `01`| [Generic Box of Strings](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Generics%20-%20Exercises/01.Generic%20Box%20of%20String) |       
+| `02` | [Array Creator](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Generics%20-%20Lab/02.Generic%20Array%20Creator) | `02` | [Generic Box of Integer](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Generics%20-%20Exercises/02.Generic%20Box%20of%20Integer) |
+| `03` | [Generic Scale](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Generics%20-%20Lab/03.Generic%20Scale) | `03`| [Generic Swap Method String](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Generics%20-%20Exercises/03.Generic%20Swap%20Method%20String) |
+|  |  | `04` | [Generic Swap Method Integer](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Generics%20-%20Exercises/04.Generic%20Swap%20Method%20Integer) |
+|  |  | `05`| [Generic Count Method String](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Generics%20-%20Exercises/05.Generic%20Count%20Method%20String) |
+|  |  | `06`| [Generic Count Method Double](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Generics%20-%20Exercises/06.Generic%20Count%20Method%20Double) |
+|  |  | `07`| [Tuple](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Generics%20-%20Exercises/07.Tuple) |
+|  |  | `08` | [Threeuple](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Generics%20-%20Exercises/08.Threeuple) |
+|  |  | `09` | [Custom Linked List](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Generics%20-%20Exercises/09.Custom%20Linked%20List) |
 
 </details>
 </li>
