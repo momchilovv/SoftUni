@@ -452,13 +452,13 @@ All of the solutions provided in this repository are evaluated with 100 points i
 
 | № | Lab | № | Exercises |                       
 | ---: | :--- | ---: | :---|                       
-| `01` | [Library](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Iterators%20and%20Comparators%20-%20Lab/01.Library) | `01`| [Listy Iterator]() |       
-| `02` | [Library Iterator](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Iterators%20and%20Comparators%20-%20Lab/02.Library%20Iterator) | `02` | [Collection]() |
-| `03` | [Comparable Book](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Iterators%20and%20Comparators%20-%20Lab/03.Comparable%20Book) | `03`| [Stack]() |
-| `04` | [Book Comparer](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Iterators%20and%20Comparators%20-%20Lab/04.Book%20Comparer) | `04` | [Froggy]() |
-|  |  | `05`| [Comparing Objects]() |
-|  |  | `06`| [Equality Logic]() |
-|  |  | `07`| [Custom Comparator]() |
+| `01` | [Library](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Iterators%20and%20Comparators%20-%20Lab/01.Library) | `01`| [Listy Iterator](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Iterators%20and%20Comparators%20-%20Exercises/01.Listy%20Iterator) |       
+| `02` | [Library Iterator](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Iterators%20and%20Comparators%20-%20Lab/02.Library%20Iterator) | `02` | [Collection](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Iterators%20and%20Comparators%20-%20Exercises/02.Collection) |
+| `03` | [Comparable Book](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Iterators%20and%20Comparators%20-%20Lab/03.Comparable%20Book) | `03`| [Stack](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Iterators%20and%20Comparators%20-%20Exercises/03.Stack) |
+| `04` | [Book Comparer](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Iterators%20and%20Comparators%20-%20Lab/04.Book%20Comparer) | `04` | [Froggy](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Iterators%20and%20Comparators%20-%20Exercises/04.Froggy) |
+|  |  | `05`| [Comparing Objects](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Iterators%20and%20Comparators%20-%20Exercises/05.Comparing%20Objects) |
+|  |  | `06`| [Equality Logic](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20Advanced/Iterators%20and%20Comparators%20-%20Exercises/06.Equality%20Logic) |
+|  |  | `07`| [Custom Comparator](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Iterators%20and%20Comparators%20-%20Exercises/07.CustomComparator.cs) |
 
 
 </details>
