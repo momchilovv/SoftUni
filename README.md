@@ -311,7 +311,7 @@ All of the solutions provided in this repository are evaluated with 100 points i
 
 <details><summary><h3>C# Advanced</h3></summary>
 <ul><li>
-<details><summary><h3>C# Advanced</h4></summary>
+<details><summary><h3>C# Advanced</h3></summary>
 <ul><li>
 <details><summary><h4>Stacks and Queues</h4></summary>
 
@@ -466,7 +466,7 @@ All of the solutions provided in this repository are evaluated with 100 points i
 </ul>
 
 </details>
-<details><summary><h3>C# OOP</h4></summary>
+<details><summary><h3>C# OOP</h3></summary>
 <ul><li>
 <details><summary><h4>Inheritance</h4></summary>
 
