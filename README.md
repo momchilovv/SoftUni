@@ -331,8 +331,7 @@ All of the solutions provided in this repository are evaluated with 100 points i
 |  |  | `12` | [Cups and Bottles](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20Advanced/Stacks%20and%20Queues%20-%20Exercises/12.CupsAndBottles.cs) |
 
 </details>
-</li>
-</ul>
+</li></ul>
 <ul><li>
 <details><summary><h4>Multidimensional Arrays</h4></summary>
 
