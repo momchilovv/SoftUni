@@ -476,7 +476,7 @@ All of the solutions provided in this repository are evaluated with 100 points i
  </ul>
 
 </details>
-<ul><li>
+
 <details><summary><h3>C# OOP</h3></summary>
 <ul><li>
 <details><summary><h4>Inheritance</h4></summary>
