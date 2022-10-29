@@ -483,12 +483,12 @@ All of the solutions provided in this repository are evaluated with 100 points i
 
 | № | Lab | № | Exercises |                       
 | ---: | :--- | ---: | :---|                       
-| `01` | [Single Inheritance](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Inheritance%20-%20Lab/01.Single%20Inheritance) | `01`| [Person]() |       
-| `02` | [Multiple Inheritance](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Inheritance%20-%20Lab/02.Multiple%20Inheritance) | `02` | [Zoo]() |
-| `03` | [Hierarchical Inheritance](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Inheritance%20-%20Lab/03.Hierarchical%20Inheritance) | `03`| [Players and Monsters]() |
-| `04` | [Random List](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Inheritance%20-%20Lab/04.Random%20List) | `04` | [Need for Speed]() |
-| `05` | [Stack of Strings](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Inheritance%20-%20Lab/05.Stack%20of%20Strings) | `05`| [Restaurant]() |
-|  |  | `06`| [Animals]() |
+| `01` | [Single Inheritance](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Inheritance%20-%20Lab/01.Single%20Inheritance) | `01`| [Person](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Inheritance%20-%20Exercises/01.Person) |       
+| `02` | [Multiple Inheritance](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Inheritance%20-%20Lab/02.Multiple%20Inheritance) | `02` | [Zoo](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Inheritance%20-%20Exercises/02.Zoo) |
+| `03` | [Hierarchical Inheritance](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Inheritance%20-%20Lab/03.Hierarchical%20Inheritance) | `03`| [Players and Monsters](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Inheritance%20-%20Exercises/03.Players%20and%20Monsters) |
+| `04` | [Random List](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Inheritance%20-%20Lab/04.Random%20List) | `04` | [Need for Speed](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Inheritance%20-%20Exercises/04.Need%20for%20Speed) |
+| `05` | [Stack of Strings](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Inheritance%20-%20Lab/05.Stack%20of%20Strings) | `05`| [Restaurant](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Inheritance%20-%20Exercises/05.Restaurant) |
+|  |  | `06`| [Animals](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Inheritance%20-%20Exercises/06.Animals) |
 
 </details>
 </li>
