@@ -493,9 +493,7 @@ All of the solutions provided in this repository are evaluated with 100 points i
 </details>
 </li>
 </ul>
-</details>
-
-<ul><li>
+ <ul><li>
 <details><summary><h4>Encapsulation</h4></summary>
 
 | № | Lab | № | Exercises |                       
@@ -510,6 +508,9 @@ All of the solutions provided in this repository are evaluated with 100 points i
 </details>
 </li>
 </ul>
+</details>
+
+
 
 </details>
 </li></ul>
