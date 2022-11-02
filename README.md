@@ -498,11 +498,11 @@ All of the solutions provided in this repository are evaluated with 100 points i
 
 | № | Lab | № | Exercises |                       
 | ---: | :--- | ---: | :---|                       
-| `01` | [Person](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Encapsulation%20-%20Lab/01.Person) | `01`| [Class Box Data]() |       
-| `02` | [Salary](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Encapsulation%20-%20Lab/02.Salary) | `02` | [Animal Farm]() |
-| `03` | [Validation Data](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Encapsulation%20-%20Lab/03.Validation%20Data) | `03`| [Shopping Spree]() |
-| `04` | [Team](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Encapsulation%20-%20Lab/04.Team) | `04` | [Pizza Calories]() |
-|  |  | `05`| [Football Team Generator]() |
+| `01` | [Person](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Encapsulation%20-%20Lab/01.Person) | `01`| [Class Box Data](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Encapsulation%20-%20Exercises/01.Class%20Box%20Data) |       
+| `02` | [Salary](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Encapsulation%20-%20Lab/02.Salary) | `02` | [Animal Farm](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Encapsulation%20-%20Exercises/02.Animal%20Farm) |
+| `03` | [Validation Data](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Encapsulation%20-%20Lab/03.Validation%20Data) | `03`| [Shopping Spree](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Encapsulation%20-%20Exercises/03.Shopping%20Spree) |
+| `04` | [Team](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Encapsulation%20-%20Lab/04.Team) | `04` | [Pizza Calories](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Encapsulation%20-%20Exercises/04.Pizza%20Calories) |
+|  |  | `05`| [Football Team Generator](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Encapsulation%20-%20Exercises/05.Football%20Team%20Generator) |
 
 
 </details>
