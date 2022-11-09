@@ -508,9 +508,26 @@ All of the solutions provided in this repository are evaluated with 100 points i
 </details>
 </li>
 </ul>
+<ul><li>
+<details><summary><h4>Interfaces and Abstraction</h4></summary>
+
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Shapes](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Interfaces%20and%20Abstraction%20-%20Lab/01.Shapes) | `01`| []() |       
+| `02` | [Cars](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Interfaces%20and%20Abstraction%20-%20Lab/02.Cars) | `02` | []() |
+|  |  | `03`| []() |
+|  |  | `04` | []() |
+|  |  | `05`| []() |
+|  |  | `06`| []() |
+|  |  | `07`| []() |
+|  |  | `08` | []() |
+|  |  | `09` | []() |
+
 </details>
+</li>
+</ul>
 
-
+</details>
 
 </details>
 </li></ul>
