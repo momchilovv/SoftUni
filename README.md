@@ -529,10 +529,10 @@ All of the solutions provided in this repository are evaluated with 100 points i
 
 | № | Lab | № | Exercises |                       
 | ---: | :--- | ---: | :---|                       
-| `01` | [Math Operation](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Polymorphism%20-%20Lab/01.Math%20Operation) | `01`| [Vehicles]() |       
-| `02` | [Animals](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Polymorphism%20-%20Lab/02.Animals) | `02` | [Vehicles Extension]() |
-| `03` | [Shapes](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Polymorphism%20-%20Lab/03.Shapes) | `03`| [Raiding]() |
-|  |  | `04` | [Wild Farm]() |
+| `01` | [Math Operation](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Polymorphism%20-%20Lab/01.Math%20Operation) | `01`| [Vehicles](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Polymorphism%20-%20Exercises/01.Vehicles) |       
+| `02` | [Animals](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Polymorphism%20-%20Lab/02.Animals) | `02` | [Vehicles Extension](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Polymorphism%20-%20Exercises/02.Vehicles%20Extension) |
+| `03` | [Shapes](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Polymorphism%20-%20Lab/03.Shapes) | `03`| [Raiding](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Polymorphism%20-%20Exercises/03.Raiding) |
+|  |  | `04` | [Wild Farm](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Polymorphism%20-%20Exercises/04.Wild%20Farm) |
 
 </details>
 </li>
