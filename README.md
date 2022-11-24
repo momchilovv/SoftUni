@@ -537,6 +537,22 @@ All of the solutions provided in this repository are evaluated with 100 points i
 </details>
 </li>
 </ul>
+ 
+ <ul><li>
+<details><summary><h4>Exceptions and Error Handling</h4></summary>
+
+| № | Lab |
+| ---: | :--- |
+| `01` | [Square Root](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20OOP/Exceptions%20and%20Error%20Handling/01.SquareRoot.cs) |
+| `02` | [Enter Numbers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20OOP/Exceptions%20and%20Error%20Handling/02.EnterNumber.cs) |
+| `03` | [Cards](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20OOP/Exceptions%20and%20Error%20Handling/03.Cards.cs) |
+| `04` | [Sum of Integers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20OOP/Exceptions%20and%20Error%20Handling/04.SumOfIntegers.cs) |
+| `05` | [Play Catch](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20OOP/Exceptions%20and%20Error%20Handling/05.PlayCatch.cs) |
+| `06` | [Money Transactions](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20OOP/Exceptions%20and%20Error%20Handling/06.MoneyTransactions.cs) |
+
+</details>
+</li>
+</ul>
 
 </details>
 
