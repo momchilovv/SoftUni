@@ -575,18 +575,12 @@ All of the solutions provided in this repository are evaluated with 100 points i
 
 | № | Lab | № | Exercises |                       
 | ---: | :--- | ---: | :---|                       
-| `01` | []() | `01`| []() |       
-| `02` | []() | `02` | []() |
-| `03` | []() | `03`| []() |
-| `04` | []() | `04` | []() |
-| `05` | []() | `05`| []() |
-| `06` | []() | `06`| []() |
-| `07` | []() | `07`| []() |
-| `08` | []() | `08` | []() |
-| `09` | []() | `09` | []() |
-| `10` | []() | | |
-| `11` | []() | |  |
-| `12` | []() |  |  |
+| `01` | [Stealer]() | `01`| [Command Pattern]() |       
+| `02` | [High Quality Mistakes]() | `02` | [Validation Attributes]() |
+| `03` | [Mission Private Impossible]() |  |  |
+| `04` | [Collector]() |  |  |
+| `05` | [Create Attribute]() |  |  |
+| `06` | [Code Tracker]() |  |  |
 
 </details>
 </li>
