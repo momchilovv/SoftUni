@@ -554,6 +554,67 @@ All of the solutions provided in this repository are evaluated with 100 points i
 </li>
 </ul>
 
+
+<ul><li>
+<details><summary><h4>SOLID</h4></summary>
+
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | []() | `01`| []() |       
+| `02` | []() | `02` | []() |
+| `03` | []() | `03`| []() |
+| `04` | []() | `04` | []() |
+| `05` | []() | `05`| []() |
+| `06` | []() | `06`| []() |
+| `07` | []() | `07`| []() |
+| `08` | []() | `08` | []() |
+| `09` | []() | `09` | []() |
+| `10` | []() | | |
+| `11` | []() | |  |
+| `12` | []() |  |  |
+
+</details>
+</li>
+</ul>
+
+
+<ul><li>
+<details><summary><h4>Reflection and Attributes</h4></summary>
+
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | []() | `01`| []() |       
+| `02` | []() | `02` | []() |
+| `03` | []() | `03`| []() |
+| `04` | []() | `04` | []() |
+| `05` | []() | `05`| []() |
+| `06` | []() | `06`| []() |
+| `07` | []() | `07`| []() |
+| `08` | []() | `08` | []() |
+| `09` | []() | `09` | []() |
+| `10` | []() | | |
+| `11` | []() | |  |
+| `12` | []() |  |  |
+
+</details>
+</li>
+</ul>
+
+
+<ul><li>
+<details><summary><h4>Unit Testing</h4></summary>
+
+| № | Lab | № | Exercises |                       
+| ---: | :--- | ---: | :---|                       
+| `01` | [Axe Tests](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20OOP/Unit%20Testing%20-%20Lab/Skeleton%20Tests/01.AxeTests.cs) | `01`| [Database](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20OOP/Unit%20Testing%20-%20Exercises/01.Database/DatabaseTests.cs) |       
+| `02` | [Dummy Tests](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20OOP/Unit%20Testing%20-%20Lab/Skeleton%20Tests/02.DummyTests.cs) | `02` | [Extended Database](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20OOP/Unit%20Testing%20-%20Exercises/02.Extended%20Database/ExtendedDatabaseTests.cs) |
+|  |  | `03`| [Car Manager](https://github.com/momchilovv/SoftUni/blob/main/C%23%20Advanced/C%23%20OOP/Unit%20Testing%20-%20Exercises/03.Car%20Manager/CarManagerTests.cs) |
+|  |  | `04` | [Fighting Arena](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Unit%20Testing%20-%20Exercises/04.Fighting%20Arena/Fighting%20Arena%20Tests) |
+
+</details>
+</li>
+</ul>
+
 </details>
 
 </details>
