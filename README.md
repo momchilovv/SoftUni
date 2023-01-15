@@ -618,3 +618,17 @@ You can use the quick links below if you want to see the solution for a particul
 </li></ul>
 
 </details>
+<details><summary><h3>C# DB Fundamentals</h3></summary>
+<ul><li>
+<details><summary><h3>C# Databases Basics</h3></summary>
+
+</details>
+
+<details><summary><h3>C# Databases Advanced</h3></summary>
+
+</details>
+
+</details>
+</li></ul>
+
+</details>
