@@ -622,7 +622,7 @@ You can use the quick links below if you want to see the solution for a particul
 <ul><li>
 <details><summary><h3>C# Databases Basics</h3></summary>
 <ul><li>
-<summary><h4>[Database Introduction](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Database%20Introduction.sql)</h4></summary>
+<summary><h4><a href="https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Database%20Introduction.sql">Database Introduction</a></h4></summary>
 </li>
 </ul>
 </details>
