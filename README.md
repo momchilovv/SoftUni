@@ -628,6 +628,24 @@ You can use the quick links below if you want to see the solution for a particul
 <summary><h4><a href="https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/CRUD.sql">CRUD</a></h4></summary>
 </li>
 </ul>
+ <ul><li>
+<details><summary><h4>Table Relations</h4></summary>
+
+| № | Exercises |                   
+| ---: | :--- |                    
+| `01` | [One-To-One Relationship](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Table%20Relations/01.One-To-OneRelationship.sql) |     
+| `02` | [One-To-Many Relationship](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Table%20Relations/02.One-To-ManyRelationship.sql) | 
+| `03` | [Many-To-Many Relationship](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Table%20Relations/03.Many-To-ManyRelationship.sql) | 
+| `04` | [Self-Referencing](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Table%20Relations/04.Self-Referencing.sql) | 
+| `05` | [Online Store Database](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Table%20Relations/05.OnlineStoreDatabase.sql) | 
+| `06` | [University Database](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Table%20Relations/06.UniversityDatabase.sql) |
+| `07` | [SoftUni Design](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Table%20Relations/07.SoftUniDesign.png) | 
+| `08` | [Geography Design](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Table%20Relations/08.GeographyDesign.png) | 
+| `09` | [Peaks in Rila](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Table%20Relations/09.PeaksInRila.sql) |
+
+</details>
+</li>
+</ul>
 </details>
 
 <details><summary><h3>C# Databases Advanced</h3></summary>
