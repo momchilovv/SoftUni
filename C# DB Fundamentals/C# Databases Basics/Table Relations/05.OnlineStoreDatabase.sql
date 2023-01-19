@@ -1,0 +1,35 @@
+CREATE DATABASE OnlineStore;
+
+CREATE TABLE Cities(
+	CityID INT IDENTITY(1,1) PRIMARY KEY,
+	[Name] VARCHAR(25)
+);
+
+CREATE TABLE Customers(
+	CustomerID INT IDENTITY(1,1) PRIMARY KEY,
+	[Name] VARCHAR(25),
+	Birthday DATETIME2,
+	CityID INT REFERENCES Cities(CityID)
+);
+
+CREATE TABLE Orders(
+	OrderID INT IDENTITY(1,1) PRIMARY KEY,
+	CustomerID INT REFERENCES Customers(CustomerID)
+);
+
+CREATE TABLE ItemTypes(
+	ItemTypeID INT IDENTITY(1,1) PRIMARY KEY,
+	[Name] VARCHAR(25)
+);
+
+CREATE TABLE Items(
+	ItemID INT IDENTITY(1,1) PRIMARY KEY,
+	[Name] VARCHAR(25),
+	ItemTypeID INT REFERENCES ItemTypes(ItemTypeID)
+);
+
+CREATE TABLE OrderItems(
+	OrderID INT REFERENCES Orders(OrderID),
+	ItemID INT REFERENCES Items(ItemID),
+	PRIMARY KEY (OrderID, ItemID)
+);
