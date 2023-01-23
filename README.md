@@ -651,25 +651,25 @@ You can use the quick links below if you want to see the solution for a particul
 
 | № | Exercises |                       
 | ---: | :---|                       
-| `01`| []() |       
-| `02` | []() |
-| `03`| []() |
-| `04` | []() |
-| `05`| []() |
-| `06`| []() |
-| `07`| []() |
-| `08` | []() |
-| `09` | []() |
-| `10` | []() | 
-| `11` | []() | 
-| `12` | []() | 
-| `13`| []() |
-| `14`| []() |
-| `15`| []() |
-| `16` | []() |
-| `17` | []() |
-| `18` | []() | 
-| `19` | []() | 
+| `01`| [Find Names of All Employees by First Name](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/01.FindNamesOfAllEmployeesByFirstName.sql) |       
+| `02` | [Find Names of All Employees by Last Name](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/02.FindNamesOfAllEmployeesByLastName.sql) |
+| `03`| [Find First Names of All Employees](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/03.FindFirstNamesOfAllEmployees.sql) |
+| `04` | [Find All Employees Except Engineers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/04.FindAllEmployeesExceptEngineers.sql) |
+| `05`| [Find Towns with Name Length](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/05.FindTownsWithNameLength.sql) |
+| `06`| [Find Towns Starting With](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/06.FindTownsStartingWith.sql) |
+| `07`| [Find Towns Not Starting With](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/07.FindTownsNotStartingWith.sql) |
+| `08` | [Create View Employees Hired After 2000 Year](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/08.CreateViewEmployeesHiredAfter2000Year.sql) |
+| `09` | [Length of Last Name](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/09.LengthOfLastName.sql) |
+| `10` | [Rank Employees by Salary](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/10.RankEmployeesBySalary.sql) | 
+| `11` | [Find All Employees with Rank 2](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/11.FindAllEmployeesWithRank2.sql) | 
+| `12` | [Countries Holding 'A' 3 or More Times](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/12.CountriesHoldingA3OrMoreTimes.sql) | 
+| `13`| [Mix of Peak and River Names](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/13.MixOfPeakAndRiverNames.sql) |
+| `14`| [Games From 2011 and 2012 Year](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/14.GamesFrom2011And2012Year.sql) |
+| `15`| [User Email Providers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/15.UserEmailProviders.sql) |
+| `16` | [Get Users with IP Address Like Pattern](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/16.GetUsersWithIPAddressLikePattern.sql) |
+| `17` | [Show All Games with Duration and Part of the Day](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/17.ShowAllGamesWithDurationAndPartOfTheDay.sql) |
+| `18` | [Orders Table](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/18.OrdersTable.sql) | 
+| `19` | [People Table](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Built-In%20Functions/19.PeopleTable.sql) | 
 
 </details>
 </li>
