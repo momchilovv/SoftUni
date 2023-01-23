@@ -646,6 +646,34 @@ You can use the quick links below if you want to see the solution for a particul
 </details>
 </li>
 </ul>
+<ul><li>
+<details><summary><h4>Built-In Functions</h4></summary>
+
+| № | Exercises |                       
+| ---: | :---|                       
+| `01`| []() |       
+| `02` | []() |
+| `03`| []() |
+| `04` | []() |
+| `05`| []() |
+| `06`| []() |
+| `07`| []() |
+| `08` | []() |
+| `09` | []() |
+| `10` | []() | 
+| `11` | []() | 
+| `12` | []() | 
+| `13`| []() |
+| `14`| []() |
+| `15`| []() |
+| `16` | []() |
+| `17` | []() |
+| `18` | []() | 
+| `19` | []() | 
+
+</details>
+</li>
+</ul>
 </details>
 
 <details><summary><h3>C# Databases Advanced</h3></summary>
