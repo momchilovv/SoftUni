@@ -674,6 +674,33 @@ You can use the quick links below if you want to see the solution for a particul
 </details>
 </li>
 </ul>
+<ul><li>
+<details><summary><h4>Subqueries and Joins</h4></summary>
+
+| № | Exercises |                       
+| ---: | :---|                       
+| `01`| [Employee Address](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Subqueries%20and%20Joins/01.EmployeeAddress.sql) |       
+| `02` | [Addresses with Towns](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Subqueries%20and%20Joins/02.AddressWithTowns.sql) |
+| `03`| [Sales Employees](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Subqueries%20and%20Joins/03.SalesEmployee.sql) |
+| `04` | [Employee Departments](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Subqueries%20and%20Joins/04.EmployeeDepartments.sql) |
+| `05`| [Employees Without Projects](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Subqueries%20and%20Joins/05.EmployeesWithoutProjects.sql) |
+| `06`| [Employees Hired After](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Subqueries%20and%20Joins/06.EmployeesHiredAfter.sql) |
+| `07`| [Employees With Project](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Subqueries%20and%20Joins/07.EmployeesWithProject.sql) |
+| `08` | [Employee 24](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Subqueries%20and%20Joins/08.Employee24.sql) |
+| `09` | [Employee Manager](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Subqueries%20and%20Joins/09.EmployeeManager.sql) |
+| `10` | [Employees Summary](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Subqueries%20and%20Joins/10.EmployeesSummary.sql) | 
+| `11` | [Min Average Salary](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Subqueries%20and%20Joins/11.MinAverageSalary.sql) | 
+| `12` | [Highest Peaks in Bulgaria](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Subqueries%20and%20Joins/12.HighestPeaksInBulgaria.sql) | 
+| `13`| [Count Mountain Ranges](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Subqueries%20and%20Joins/13.CountMountainRanges.sql) |
+| `14` | [Countries With or Without Rivers](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Subqueries%20and%20Joins/14.CountriesWithOrWithoutRivers.sql) |
+| `15` | [Continents and Currencies](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Subqueries%20and%20Joins/15.ContinentsAndCurrencies.sql) |
+| `16` | [Countries Without any Mountains](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Subqueries%20and%20Joins/16.CountriesWithoutAnyMountains.sql) | 
+| `17` | [Highest Peak and Longest River by Country](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Subqueries%20and%20Joins/17.HighestPeakAndLongestRiverByCountry.sql) | 
+| `18` | [Highest Peak Name and Elevation by Country](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Subqueries%20and%20Joins/18.HighestPeakNameAndElevationByCountry.sql) | 
+
+</details>
+</li>
+</ul>
 </details>
 
 <details><summary><h3>C# Databases Advanced</h3></summary>
