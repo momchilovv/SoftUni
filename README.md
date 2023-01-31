@@ -702,7 +702,7 @@ You can use the quick links below if you want to see the solution for a particul
 </li>
 </ul>
 <ul><li>
-<details><summary><h4>NAME</h4></summary>
+<details><summary><h4>Indices and Data Aggregation</h4></summary>
 
 | № | Exercises |                       
 | ---: | :---|                       
