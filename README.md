@@ -701,6 +701,34 @@ You can use the quick links below if you want to see the solution for a particul
 </details>
 </li>
 </ul>
+<ul><li>
+<details><summary><h4>NAME</h4></summary>
+
+| № | Exercises |                       
+| ---: | :---|                       
+| `01`| [Records Count](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/01.RecordsCount.sql) |       
+| `02` | [Longest Magic Wand](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/02.LongestMagicWand.sql) |
+| `03`| [Longest Magic Wand per Deposit Groups](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/03.LongestMagicWandPerDepositGroups.sql) |
+| `04` | [Smallest Deposit Group per Magic Wand Size](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/04.SmallestDepositGroupPerMagicWandSize.sql) |
+| `05`| [Deposits Sum](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/05.DepositsSum.sql) |
+| `06`| [Depostits Sum for Ollivander Family](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/06.DepositsSumForOllivanderFamily.sql) |
+| `07`| [Deposits Filter](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/07.DepositsFilter.sql) |
+| `08` | [Deposit Charge](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/08.DepositCharge.sql) |
+| `09` | [Age Groups](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/09.AgeGroups.sql) |
+| `10` | [First Letter](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/10.FirstLetter.sql) | 
+| `11` | [Average Interest](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/11.AverageInterest.sql) | 
+| `12` | [Rich Wizard, Poor Wizard](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/12.RichWizardPoorWizard.sql) | 
+| `13` | [Departments Total Salaries](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/13.DepartmentsTotalSalaries.sql) | 
+| `14` | [Employees Minimum Salaries](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/14.EmployeesMinimumSalaries.sql) | 
+| `15` | [Employees Average Salaries](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/15.EmployeesAverageSalaries.sql) | 
+| `16` | [Employees Maximum Salaries](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/16.EmployeesMaximumSalaries.sql) | 
+| `17` | [Employees Count Salaries](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/17.EmployeesCountSalaries.sql) | 
+| `18` | [3rd Highest Salary](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/18.3rdHighestSalary.sql) | 
+| `19` | [Salary Challenge](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Indices%20and%20Data%20Aggregation/19.SalaryChallenge.sql) | 
+
+</details>
+</li>
+</ul>
 </details>
 
 <details><summary><h3>C# Databases Advanced</h3></summary>
