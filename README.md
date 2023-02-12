@@ -729,6 +729,29 @@ You can use the quick links below if you want to see the solution for a particul
 </details>
 </li>
 </ul>
+<ul><li>
+<details><summary><h4>Functions and Stored Procedures</h4></summary>
+
+| № | Exercises |                       
+| ---: | :---|                       
+| `01` | [Employees with Salary Above 35000]() |       
+| `02` | [Employees with Salary Above Number]() |
+| `03` | [Town Names Starting With]() |
+| `04` | [Employees from Town]() |
+| `05` | [Salary Level Function]() |
+| `06` | [Employees by Salary Level]() |
+| `07` | [Define Function]() |
+| `08` | [Delete Employees and Departments]() |
+| `09` | [Find Full Name]() |
+| `10` | [People with Balance Higher Than]() | 
+| `11` | [Future Value Function]() | 
+| `12` | [Calculating Interest]() | 
+| `13` | [Cash in User Games Odd Rows]() |
+
+</details>
+</li>
+</ul>
+
 </details>
 
 <details><summary><h3>C# Databases Advanced</h3></summary>
