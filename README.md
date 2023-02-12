@@ -751,7 +751,24 @@ You can use the quick links below if you want to see the solution for a particul
 </details>
 </li>
 </ul>
+<ul><li>
+<details><summary><h4>Triggers and Transactions</h4></summary>
 
+| № | Exercises |                       
+| ---: | :---|                       
+| `01`| [Create Table Logs]() |       
+| `02` | [Create Table Emails]() |
+| `03`| [Deposit Money]() |
+| `04` | [Withdraw Money Procedure]() |
+| `05`| [Money Transfer]() |
+| `06`| [Massive Shopping]() |
+| `07`| [Employees with Three Projects]() |
+| `08` | [Delete Employees]() |
+ 
+</details>
+</li>
+</ul>
+ 
 </details>
 
 <details><summary><h3>C# Databases Advanced</h3></summary>
