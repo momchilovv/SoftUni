@@ -734,19 +734,19 @@ You can use the quick links below if you want to see the solution for a particul
 
 | № | Exercises |                       
 | ---: | :---|                       
-| `01` | [Employees with Salary Above 35000]() |       
-| `02` | [Employees with Salary Above Number]() |
-| `03` | [Town Names Starting With]() |
-| `04` | [Employees from Town]() |
-| `05` | [Salary Level Function]() |
-| `06` | [Employees by Salary Level]() |
-| `07` | [Define Function]() |
-| `08` | [Delete Employees and Departments]() |
-| `09` | [Find Full Name]() |
-| `10` | [People with Balance Higher Than]() | 
-| `11` | [Future Value Function]() | 
-| `12` | [Calculating Interest]() | 
-| `13` | [Cash in User Games Odd Rows]() |
+| `01` | [Employees with Salary Above 35000](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Functions%20and%20Stored%20Procedures/01.EmployeesWithSalaryAbove35000.sql) |       
+| `02` | [Employees with Salary Above Number](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Functions%20and%20Stored%20Procedures/02.EmployeesWithSalaryAboveNumber.sql) |
+| `03` | [Town Names Starting With](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Functions%20and%20Stored%20Procedures/03.TownNamesStartingWith.sql) |
+| `04` | [Employees from Town](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Functions%20and%20Stored%20Procedures/04.EmployeesFromTown.sql) |
+| `05` | [Salary Level Function](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Functions%20and%20Stored%20Procedures/05.SalaryLevelFunction.sql) |
+| `06` | [Employees by Salary Level](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Functions%20and%20Stored%20Procedures/06.EmployeesBySalaryLevel.sql) |
+| `07` | [Define Function](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Functions%20and%20Stored%20Procedures/07.DefineFunction.sql) |
+| `08` | [Delete Employees and Departments](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Functions%20and%20Stored%20Procedures/08.DeleteEmployeesAndDepartments.sql) |
+| `09` | [Find Full Name](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Functions%20and%20Stored%20Procedures/09.FindFullName.sql) |
+| `10` | [People with Balance Higher Than](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Functions%20and%20Stored%20Procedures/10.PeopleWithBalanceHigherThan.sql) | 
+| `11` | [Future Value Function](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Functions%20and%20Stored%20Procedures/11.FutureValueFunction.sql) | 
+| `12` | [Calculating Interest](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Functions%20and%20Stored%20Procedures/12.CalculatingInterest.sql) | 
+| `13` | [Cash in User Games Odd Rows](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Functions%20and%20Stored%20Procedures/13.CashInUserGamesOddRows.sql) |
 
 </details>
 </li>
