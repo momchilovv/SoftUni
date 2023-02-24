@@ -783,7 +783,10 @@ You can use the quick links below if you want to see the solution for a particul
 </details>
 
 <details><summary><h3>C# Databases Advanced</h3></summary>
-
+<ul><li>
+<details><summary><h4><a href="https://github.com/momchilovv/SoftUni/tree/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Advanced/Entity%20Framework%20Introduction">Entity Framework Introduction</a></h4></summary></details>
+</li>
+</ul>
 </details>
 
 </details>
