@@ -788,7 +788,17 @@ You can use the quick links below if you want to see the solution for a particul
 </li>
 </ul>
 </details>
+<ul><li>
+<details><summary><h4>Entity Relations</h4></summary>
 
+| № | Exercises |                       
+| ---: | :--- |                       
+| `01` | [Student System]() |       
+| `02` | [Football Betting]() |
+
+</details>
+</li>
+</ul>
 </details>
 </li></ul>
 
