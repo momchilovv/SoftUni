@@ -792,8 +792,8 @@ You can use the quick links below if you want to see the solution for a particul
 
 | № | Exercises |                       
 | ---: | :--- |                       
-| `01` | [Student System]() |       
-| `02` | [Football Betting]() |
+| `01` | [Student System](https://github.com/momchilovv/SoftUni/tree/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Advanced/Entity%20Relations/Student%20System) |       
+| `02` | [Football Betting](https://github.com/momchilovv/SoftUni/tree/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Advanced/Entity%20Relations/Football%20Betting) |
 
 </details>
 </li>
