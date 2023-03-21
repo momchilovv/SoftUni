@@ -1,6 +1,6 @@
 # ![](https://user-images.githubusercontent.com/26198872/194121561-e4609eaa-6288-4e4a-90b9-efe4ab9c22ed.png)  SoftUni  
 
-All of the solutions provided in this repository are evaluated with 100 points in the **[Open Judge System](https://github.com/NikolayIT/OpenJudgeSystem)** at **[softuni.bg](https://judge.softuni.org/)**. </br>Over time, some of the tasks in the modules may be changed/removed and new ones may be added. 
+All solutions provided in this repository are evaluated with 100 points in the **[Open Judge System](https://github.com/NikolayIT/OpenJudgeSystem)** at **[softuni.bg](https://judge.softuni.org/)**. </br>Over time, some of the tasks in the modules may be changed/removed and new ones may be added. 
 You can use the quick links below if you want to see the solution for a particular task.
 
 ---
@@ -808,6 +808,17 @@ You can use the quick links below if you want to see the solution for a particul
 </ul>
 <ul><li>
 <details><summary><h4><a href="https://github.com/momchilovv/SoftUni/tree/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Advanced/Auto%20Mapping%20Objects">Auto Mapping Objects</a></h4></summary></details>
+</li>
+</ul>
+<ul><li>
+<details><summary><h4>JavaScript Object Notation - JSON</h4></summary>
+
+| № | Exercises |                       
+| ---: | :--- |                       
+| `01` | [Product Shop](https://github.com/momchilovv/SoftUni/tree/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Advanced/JavaScript%20Object%20Notation%20-%20JSON/Product%20Shop) |       
+| `02` | [Car Dealer](https://github.com/momchilovv/SoftUni/tree/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Advanced/JavaScript%20Object%20Notation%20-%20JSON/Car%20Dealer) |
+
+</details>
 </li>
 </ul>
 <ul><li>
