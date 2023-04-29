@@ -1,0 +1,31 @@
+div {
+    font-family: sans-serif;
+}
+
+.listContainer  {
+    width: 400px;
+    margin: 0 auto;
+    padding: 25px;
+    background-color: lightgray;
+}
+
+.listContainer h3 {
+    text-align: center;
+    color: rgb(77, 0, 128);
+}
+
+li {
+    position: relative;
+    line-height: 2;
+    text-underline-offset: 4px;
+    width: 100%;
+}
+
+li::after {
+    content: "";
+    position: absolute;
+    bottom: 5px;
+    left: 0;
+    width: 97%;
+    border-bottom: 1.5px solid black;
+}

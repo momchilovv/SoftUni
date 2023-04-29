@@ -1,0 +1,27 @@
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(193, 189, 189);
+}
+
+nav ul li {
+    display: inline-block;
+    font-family: sans-serif;
+    margin: 0 17px;
+    padding: 4px;
+}
+
+nav ul li a {
+    display: block;
+    text-decoration: none;
+    color: rgb(2, 162, 2);
+}
+
+nav ul li a:hover{
+    color: white;
+    border-radius: 3.7px;
+    background-color: rgb(2, 162, 2);
+}

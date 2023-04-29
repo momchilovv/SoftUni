@@ -1,0 +1,32 @@
+table {
+    border-collapse: collapse;
+    width: 20%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: right;
+}
+
+td:empty {
+    border: none;
+}
+td.absent {
+    border-left: none;
+    border-right: 1px solid black;
+}
+
+td:not(:first-child):not(:empty):not(:first-child):before {
+    content: "";
+    display: block;
+    border-top: 1px solid white;
+    position: relative;
+    top: -1px;
+    z-index: -1;
+  }
+
+td.inherit {
+    border-top: none;
+    padding: 0;
+}
