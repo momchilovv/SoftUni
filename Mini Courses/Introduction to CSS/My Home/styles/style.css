@@ -1,0 +1,47 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin-top: 55px;
+}
+
+header article {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    margin-left: 196px;
+    margin-right: -40px;
+    padding-left: 10px;
+    text-align: left; 
+    border-left: 3px solid rgb(163, 161, 161);
+    border-bottom-width: 150px;
+    border-top-width: 100px;
+}
+
+h2 {
+    letter-spacing: 4px;
+    font-size: 40px;
+    font-weight: normal;
+    padding-left: 16px;
+}
+
+header article span {
+    padding-left: 20px;
+    width: 100px;
+    padding-right: 266px;
+    color: #656565;
+}
+
+main p {
+    text-align: left;
+}
+
+main article {
+    display: inline-block;
+    margin-top: 25px;
+    padding-left: 55px;
+    width: 20.5%;
+}
+
+main article img {
+    padding-left: 14.5px;
+}
