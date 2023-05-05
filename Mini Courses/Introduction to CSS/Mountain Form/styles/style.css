@@ -1,0 +1,87 @@
+body {
+    font-family: "Lato", sans-serif;
+    color: white;
+    text-align: center;
+}
+
+section {
+    margin-top: 80px;
+    display: inline-block;
+    border: 4px;
+    vertical-align: top;
+}
+
+#left {
+    background-image: 
+        linear-gradient(to top, rgba(167, 13, 222, 0.52), rgba(38, 67, 215, 0.73)),
+        url('../images/peak.jpg');
+    background-size: cover;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    height: 550px;
+    width: 350px;
+    text-align: center;
+}
+
+#left p {
+    font-style: italic;
+}
+
+#right {
+    margin-left: -3px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-color: #38082A;
+    border-style: solid;
+    height: 542px;
+    width: 400px;
+    text-align: left;
+    color: black;
+}
+
+i {
+    text-align: center;
+}
+
+form {
+    padding-top: 45%;
+    padding-left: 27%;
+}
+
+form button {
+    margin-top: 30px;
+    background-color: #38082A;
+    color: white;
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form a {
+    text-decoration: none;
+}
+
+form label {
+    text-align: left;
+    font-size: 12px;
+    color: rgb(218, 217, 220);
+}
+
+input {
+    margin-bottom: 10px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+    color: rgb(118, 115, 115);
+}
+
+input::placeholder {
+    font-size: 15px;
+}
+
+input:focus {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
+}
