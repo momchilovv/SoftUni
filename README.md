@@ -576,8 +576,8 @@ You can use the quick links below if you want to see the solution for a particul
 
 | № | Lab | № | Exercises |                       
 | ---: | :--- | ---: | :---|                       
-| `01` | [Stealer](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Reflection%20and%20Attributes%20-%20Lab/01.Stealer) | `01`| [Command Pattern]() |       
-| `02` | [High Quality Mistakes](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Reflection%20and%20Attributes%20-%20Lab/02.High-Quality%20Mistakes) | `02` | [Validation Attributes]() |
+| `01` | [Stealer](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Reflection%20and%20Attributes%20-%20Lab/01.Stealer) | `01`| [Command Pattern](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Reflection%20and%20Attributes%20-%20Exercises/01.Command%20Pattern) |       
+| `02` | [High Quality Mistakes](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Reflection%20and%20Attributes%20-%20Lab/02.High-Quality%20Mistakes) | `02` | [Validation Attributes](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Reflection%20and%20Attributes%20-%20Exercises/02.Validation%20Attributes) |
 | `03` | [Mission Private Impossible](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Reflection%20and%20Attributes%20-%20Lab/03.Mission%20Private%20Impossible) |  |  |
 | `04` | [Collector](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Reflection%20and%20Attributes%20-%20Lab/04.Collector) |  |  |
 | `05` | [Create Attribute](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/Reflection%20and%20Attributes%20-%20Lab/05.CreateAttribute) |  |  |
