@@ -867,9 +867,9 @@ You can use the quick links below if you want to see the solution for a particul
 
 | № | Exercises |                   
 | ---: | :--- |                    
-| `01` | [One-To-One Relationship](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Table%20Relations/01.One-To-OneRelationship.sql) |     
-| `02` | [One-To-Many Relationship](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Table%20Relations/02.One-To-ManyRelationship.sql) | 
-| `03` | [Many-To-Many Relationship](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Table%20Relations/03.Many-To-ManyRelationship.sql) | 
+| `01` | [MVC Introduction Demo](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Web/ASP.NET%20Fundamentals/ASP.NET%20Core%20Introduction/MVC%20Introduction%20Demo) |     
+| `02` | [Simple Chat](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Web/ASP.NET%20Fundamentals/ASP.NET%20Core%20Introduction/Simple%20Chat) | 
+| `03` | [Text Splitter App](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Web/ASP.NET%20Fundamentals/ASP.NET%20Core%20Introduction/Text%20Splitter%20App) | 
 
 </details>
 </li>
