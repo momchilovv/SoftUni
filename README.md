@@ -859,3 +859,27 @@ You can use the quick links below if you want to see the solution for a particul
 </details>
 </li></ul>
 </details>
+<details><summary><h3>C# Web</h3></summary>
+<ul><li>
+<details><summary><h3>ASP.NET Fundamentals</h3></summary>
+<ul><li>
+<details><summary><h4>Table Relations</h4></summary>
+
+| № | Exercises |                   
+| ---: | :--- |                    
+| `01` | [One-To-One Relationship](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Table%20Relations/01.One-To-OneRelationship.sql) |     
+| `02` | [One-To-Many Relationship](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Table%20Relations/02.One-To-ManyRelationship.sql) | 
+| `03` | [Many-To-Many Relationship](https://github.com/momchilovv/SoftUni/blob/main/C%23%20DB%20Fundamentals/C%23%20Databases%20Basics/Table%20Relations/03.Many-To-ManyRelationship.sql) | 
+
+</details>
+</li>
+</ul>
+</details>
+
+<details><summary><h3>ASP.NET Advanced</h3></summary>
+ 
+</details>
+</details>
+</details>
+</li></ul>
+</details>
