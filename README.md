@@ -863,7 +863,7 @@ You can use the quick links below if you want to see the solution for a particul
 <ul><li>
 <details><summary><h3>ASP.NET Fundamentals</h3></summary>
 <ul><li>
-<details><summary><h4>Table Relations</h4></summary>
+<details><summary><h4>ASP.NET Core Introduction</h4></summary>
 
 | № | Exercises |                   
 | ---: | :--- |                    
