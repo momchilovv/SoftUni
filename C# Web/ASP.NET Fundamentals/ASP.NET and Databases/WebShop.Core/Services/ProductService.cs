@@ -40,6 +40,7 @@ namespace WebShop.Core.Services
                     Quantity = p.Quantity,
                     Price = p.Price
                 })
+                .AsNoTracking()
                 .ToListAsync();
         }
 
