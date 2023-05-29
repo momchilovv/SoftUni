@@ -1,0 +1,36 @@
+﻿@using WebShop.Core.Models;
+@model ProductViewModel
+
+@{
+    ViewBag.Title = $"Edit Product - {Model.ProductName}";
+}
+
+<h2 class="text-center">@ViewBag.Title</h2>
+<hr />
+
+<div class="row">
+    <form method="post">
+        <div class="form-group">
+            <div class="mb-3">
+                <label asp-for="ProductName"></label>
+                <input asp-for="ProductName" class="form-control" placeholder="New product name..." />
+                <span asp-validation-for="ProductName" class="small text-danger"></span>
+                <br />
+                <label asp-for="Quantity"></label>
+                <input asp-for="Quantity" class="form-control" placeholder="New quantity..." />
+                <span asp-validation-for="Quantity" class="small text-danger"></span>
+                <br />
+                <label asp-for="Price"></label>
+                <input asp-for="Price" class="form-control" placeholder="New price..." />
+                <span asp-validation-for="Price" class="small text-danger"></span>
+            </div>
+        </div>
+        <input class="btn btn-success mt-3" type="submit" value="Change product" />
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

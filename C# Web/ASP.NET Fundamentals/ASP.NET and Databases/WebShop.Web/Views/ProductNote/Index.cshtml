@@ -1,0 +1,30 @@
+﻿@model ProductNoteViewModel
+
+@{
+    ViewBag.Title = "Add new note";
+}
+
+<h2 class="text-center">@ViewBag.Title</h2>
+<hr />
+
+<div class="row">
+    <form method="post">
+        <div class="form-group">
+            <div class="mb-3">
+                <input asp-for="Note" class="form-control" placeholder="Note text..." />
+                <span asp-validation-for="Note" class="small text-danger"></span>
+                <br />
+                <input type="date" style="width: 217px"
+                    asp-for="NoteDate" class="form-control" placeholder="Note date and time..." />
+                <span asp-validation-for="NoteDate" class="small text-danger"></span>
+            </div>
+        </div>
+        <input class="btn btn-success mt-3" type="submit" value="Add note" />
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

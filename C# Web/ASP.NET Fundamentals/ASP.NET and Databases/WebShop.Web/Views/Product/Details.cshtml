@@ -1,0 +1,40 @@
+﻿@using WebShop.Infrastructure.Model;
+@model ProductViewModel
+
+@{
+    ViewBag.Title = $"Details - {Model.ProductName}";
+}
+
+<div class="col-sm-3">
+    <div class="card">
+        <div class="card-body">
+            <p class="card-text">Product Id: @Model.Id</p>
+            <p class="card-text">Product Name: @Model.ProductName</p>
+            <p class="card-text">Quantity: @Model.Quantity</p>
+            <p class="card-text">Price: @Model.Price</p>
+            <hr />
+            @if (Model.ProductNotes.Count() > 0)
+            {
+                <h4 class="card-text">Notes:</h4>
+                <hr />
+                @foreach (var note in Model.ProductNotes)
+                {
+                    <p class="card-text"><b>Text:</b> @note.Note</p>
+                    <p class="card-text"><b>Date:</b> @note.NoteDate.ToString("dd/MM/yyyy")</p>
+                    <form class="mt-2" asp-controller="ProductNote" asp-action="Delete" asp-route-id="@note.Id">
+                        <div class="d-grid gap-2">
+                            <input type="submit" value="Delete" class="btn btn-danger" />
+                        </div>
+                    </form>
+                }
+            }
+            else
+            {
+                <p class="card-text">There are no notes yet!</p>
+            }
+            </>
+        </div>
+    </div>
+</div>
+
+<a class="btn btn-success mt-3" asp-controller="ProductNote" asp-action="Index">Add note</a>
