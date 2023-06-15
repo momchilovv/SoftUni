@@ -883,6 +883,11 @@ You can use the quick links below if you want to see the solution for a particul
 <details><summary><h4><a href="https://github.com/momchilovv/SoftUni/tree/main/C%23%20Web/ASP.NET%20Fundamentals/Forum%20App">Workshop: Forum App</a></h4></summary></details>
 </li>
 </ul>
+<ul><li>
+<details><summary><h4><a href="https://github.com/momchilovv/SoftUni/tree/main/C%23%20Web/ASP.NET%20Fundamentals/Task%20Board%20App">Workshop: Task Board App</a></h4></summary></details>
+</li>
+</ul>
+
 </details>
  
 <details><summary><h3>ASP.NET Advanced</h3></summary>
