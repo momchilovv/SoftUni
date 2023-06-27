@@ -898,7 +898,16 @@ You can use the quick links below if you want to see the solution for a particul
 <details><summary><h4><a href="https://github.com/momchilovv/SoftUni/tree/main/C%23%20Web/ASP.NET%20Fundamentals/Homies">Regular Exam: Homies</a></h4></summary></details>
 </li>
 </ul>
-
+<ul><li>
+  <details><summary><h4>Certificate</h4></summary>
+  
+ <p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/momchilovv/SoftUni/assets/26198872/9203ce58-da74-40a6-a6ac-33e25c37dc47"><img src="https://github.com/momchilovv/SoftUni/assets/26198872/9203ce58-da74-40a6-a6ac-33e25c37dc47" style="max-width: 50%;"></a>
+ </p>
+ 
+  </details>
+  </li>
+ </ul>
 </details>
  
 <details><summary><h3>ASP.NET Advanced</h3></summary>
