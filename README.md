@@ -911,7 +911,16 @@ You can use the quick links below if you want to see the solution for a particul
 </details>
  
 <details><summary><h3>ASP.NET Advanced</h3></summary>
+ <ul><li>
+  <details><summary><h4>Certificate</h4></summary>
+ <p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/momchilovv/SoftUni/assets/26198872/ff5037d0-b590-48f5-b1e1-f46929cd59f1"><img   
+     src="https://github.com/momchilovv/SoftUni/assets/26198872/ff5037d0-b590-48f5-b1e1-f46929cd59f1" style="max-width: 50%;"></a>
+ </p>
  
+  </details>
+  </li>
+ </ul>
 </details>
 </details>
 </details>
