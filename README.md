@@ -561,10 +561,10 @@ You can use the quick links below if you want to see the solution for a particul
 
 | № | Lab | № | Exercises |                       
 | ---: | :--- | ---: | :---|                       
-| `01` | [Stream Progress Info]() | `01`| [Logger]() |       
-| `02` | [Graphic Editor]() |  |  |
-| `03` | [Detail Printer]() |  |  |
-| `04` | [Recharge]() |  |  |
+| `01` | [Stream Progress Info](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/SOLID%20-%20Lab/01.Stream%20Progress%20Info) | `01`| [Logger]() |       
+| `02` | [Graphic Editor](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/SOLID%20-%20Lab/02.Graphic%20Editor) |  |  |
+| `03` | [Detail Printer](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/SOLID%20-%20Lab/03.Detail%20Printer) |  |  |
+| `04` | [Recharge](https://github.com/momchilovv/SoftUni/tree/main/C%23%20Advanced/C%23%20OOP/SOLID%20-%20Lab/04.Recharge) |  |  |
 
 </details>
 </li>
